@@ -47,7 +47,6 @@ http://s3.dlrozane.com/dlroozane/96/9/Bajrangi%20Bhaijaan%202015.720p.Farsi.mkv
 http://s3.dlrozane.com/dlroozane/96/9/Survivor.2015.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2017/11/Wolf-Warior.jpg" group-title="Movies 2000-2015",Wolf-Warior
 http://s3.dlrozane.com/dlroozane/96/10/Wolf.Warrior.2015.720p.Dubble.Farsi.mkv
-
 #EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/MV5BYjAyNjI3YzMtNjNjOC00YmJjLTg1OTctMmUwNGJlZTIzMzQ5XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg" group-title="Movies English",Any Bullet Will Do
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Any.Bullet.Will.Do.2018.480p.WEB-DL..mkv
 #EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/taS8PKlS684NkYrEMnIBS59pDu5.jpg" group-title="Movies English",Sgt. Stubby: An American Hero
