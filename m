@@ -47,3 +47,32 @@ http://s3.dlrozane.com/dlroozane/96/9/Bajrangi%20Bhaijaan%202015.720p.Farsi.mkv
 http://s3.dlrozane.com/dlroozane/96/9/Survivor.2015.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2017/11/Wolf-Warior.jpg" group-title="Movies 2000-2015",Wolf-Warior
 http://s3.dlrozane.com/dlroozane/96/10/Wolf.Warrior.2015.720p.Dubble.Farsi.mkv
+
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/MV5BYjAyNjI3YzMtNjNjOC00YmJjLTg1OTctMmUwNGJlZTIzMzQ5XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg" group-title="Movies English",Any Bullet Will Do
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Any.Bullet.Will.Do.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/taS8PKlS684NkYrEMnIBS59pDu5.jpg" group-title="Movies English",Sgt. Stubby: An American Hero
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Sgt.Stubby.An.American.Hero.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/gnj2opTQWGaLtB7kZ4OuMtG2RWa3.jpg" group-title="Movies English",Unfriended: Dark Web
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Unfriended.Dark.Web.2018.480p.HC.HDRip..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2yzvCVg44KCw3L9dBlBuP41AEjq.jpg" group-title="Movies English",The Resistance Banker
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/The.Resistance.Banker.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2Cr8cZhtiu9evgkp3IGajIdbM4b.jpg" group-title="Movies English",Silencer
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Silencer.2018.480p..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/j7hlA4Ha2beuA67tuk68kf28PrK.jpg" group-title="Movies English",The Dawnseeker
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/The.Dawnseeker.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/yGZfL1rBfFjMUaGufonERH53X0T.jpg" group-title="Movies English",Reprisal
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Reprisal.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/rv1AWImgx386ULjcf62VYaW8zSt.jpg" group-title="Movies English",Ant-Man and the Wasp
+http://dl2.film2serial.ir/film2serial/film/asli/97/6/Ant-Man.and.The.Wasp.2018.NEW.720p.HDTC.mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="Movies English",American Animals
+http://dl2.film2serial.ir/film2serial/film/asli/97/5/American.Animals.2018.480p.RMTeam.mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/ovaavz43B8TMlli5AuSVeiFhi63.jpg" group-title="Movies English",Down a Dark Hall
+http://dl2.film2serial.ir/film2serial/film/asli/97/5/Down.a.Dark.Hall.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BNzQ3NzY0NzktYWUwZC00ZT.jpg" group-title="Movies English",Enter The Wild
+http://dl2.film2serial.ir/film2serial/film/asli/97/5/Enter.The.Wild.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/tqistSlQGQVlvDZHweDP3qCplMP.jpg" group-title="Movies English",Upgrade
+http://dl2.film2serial.ir/film2serial/film/asli/97/5/Upgrade.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/5LYSsOPzuP13201qSzMjNxi8FxN.jpg" group-title="Movies English",Skyscraper
+http://dl2.film2serial.ir/film2serial/film/asli/97/7/Skyscraper.2018.480p.SPARKS.mkv
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BZTk2NDhjNDUtMTQxMi00ZDY1LTk2MTAtZWIyMThkZDAwOGM4XkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_SY1000_CR006661000_AL_.jpg" group-title="Movies English",The Barn
+http://dl2.film2serial.ir/film2serial/film/asli/97/5/The.Barn.2018.480p..mkv
