@@ -1,4 +1,14 @@
 
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/07/Thw-Waalking.jpg" group-title="Movies 2016",Thw-Waalking
+http://s5.dlrozane.com/dlroozane/97/04/The.Wailing.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/05/sniper.jpg" group-title="Movies 2016",sniper
+http://s5.dlrozane.com/dlroozane/97/02/Sniper.Ghost.Shooter.2016.480p.WEB-DL.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/05/Ghol-Asa.jpg" group-title="Movies 2016",Colossal
+http://s5.dlrozane.com/dlroozane/97/02/Colossal.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/04/Asre-Sayeha.jpg" group-title="Movies 2016",The age of shadows
+http://s3.dlrozane.com/dlroozane/97/01/The.Age.of.Shadows.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/04/happy.jpg" group-title="Movies 2016",happy
+http://s3.dlrozane.com/dlroozane/97/01/Happy.Bhag.Jayegi.2016.WEB-DL.720p.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/04/Maigret-Sets-a-Trap.jpg" group-title="Movies 2016",Maigret-Sets-a-Trap
 http://s6.dlrozane.com/dlroozane/98/01/Maigret.Sets.A.Trap.2016.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/04/Mine-1.jpg" group-title="Movies 2016",Mine-1
