@@ -1,4 +1,17 @@
 
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/07/Fast-Furious-Presents-Hobbs-Shaw.jpg" group-title="Recently Add FA",Fast & Furious Presents: Hobbs & Shaw 2019
+http://s7.dlrozane.com/dlroozane/98/08/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/The-Last-Black-Man-in-San-Francisco.jpg" group-title="Recently Add FA",The Last Black Man in San Francisco 2019
+http://s7.dlrozane.com/dlroozane/98/08/The.Last.Black.Man.in.San.Francisco.2019.480p.BRRip.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Crawl.jpg" group-title="Recently Add FA",Crawl 2019
+http://s7.dlrozane.com/dlroozane/98/07/Crawl.2019.480p.BRRip.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Lifechanger.jpg" group-title="Recently Add FA",Lifechanger 2018
+http://s7.dlrozane.com/dlroozane/98/08/Lifechanger.2018.720p.WEB_DL.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Extreme-Job.jpg" group-title="Recently Add FA",Extreme Job 2019 
+http://s7.dlrozane.com/dlroozane/98/07/Extreme.Job.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Shot-Caller.jpg" group-title="Recently Add FA",Shot Caller 2017
+http://s7.dlrozane.com/dlroozane/98/08/Shot.Caller.2017.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="" group-title="Recently Add FA",
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/07/Thw-Waalking.jpg" group-title="Movies 2016",Thw-Waalking
 http://s5.dlrozane.com/dlroozane/97/04/The.Wailing.2016.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/05/sniper.jpg" group-title="Movies 2016",sniper
