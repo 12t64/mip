@@ -1,4 +1,22 @@
 
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/04/Maigret-Sets-a-Trap.jpg" group-title="Movies 2016",Maigret-Sets-a-Trap
+http://s6.dlrozane.com/dlroozane/98/01/Maigret.Sets.A.Trap.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/04/Mine-1.jpg" group-title="Movies 2016",Mine-1
+http://s6.dlrozane.com/dlroozane/98/01/Mine.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2016/11/emcanic2.jpg" group-title="Movies 2016",mechanic2
+http://s6.dlrozane.com/dlroozane/97/12/Mechanic.Resurrection.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/03/Marauders.jpg" group-title="Movies 2016",Marauders
+http://s6.dlrozane.com/dlroozane/97/12/Marauders.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/12/Message-from-the-King-2016.jpg" group-title="Movies 2016",Message-from-the-King-2016
+http://s6.dlrozane.com/dlroozane/97/10/Message.from.the.King.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/12/Hard-Target2.jpg" group-title="Movies 2016",Hard-Target2
+http://s6.dlrozane.com/dlroozane/97/09/Hard_Target_2_2016_720p_Farsi_Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/08/Birth-Dragon-2016.jpg" group-title="Movies 2016",Birth-Dragon-2016
+http://s5.dlrozane.com/dlroozane/97/05/Birth.of.the.Dragon.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/07/Billy-Lynns-Long-Halftime-Walk-1.jpg" group-title="Movies 2016",Billy-Lynns-Long-Halftime-Walk-1
+http://s5.dlrozane.com/dlroozane/97/04/Billy.Lynns.Long.Halftime.Walk.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/05/Amaliat-koromait.jpg" group-title="Movies 2016",chromite
+http://s5.dlrozane.com/dlroozane/97/03/Operation.Chromite.2016.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/03/The-Amazing-Wiplala.jpg" group-title="Movies 2000-2015",The-Amazing-Wiplala
 http://s6.dlrozane.com/dlroozane/97/12/The.Amazing.Wiplala.2014.480p.BluRay.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/03/world-warz.jpg" group-title="Movies 2000-2015",world-warz
