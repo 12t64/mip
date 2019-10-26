@@ -11,7 +11,6 @@ http://s7.dlrozane.com/dlroozane/98/08/Lifechanger.2018.720p.WEB_DL.Dubbed.mkv
 http://s7.dlrozane.com/dlroozane/98/07/Extreme.Job.2019.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Shot-Caller.jpg" group-title="Recently Add FA",Shot Caller 2017
 http://s7.dlrozane.com/dlroozane/98/08/Shot.Caller.2017.480p.Dubble.Farsi.mkv
-#EXTINF:-1 tvg-logo="" group-title="Recently Add FA",
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/07/Thw-Waalking.jpg" group-title="Movies 2016",Thw-Waalking
 http://s5.dlrozane.com/dlroozane/97/04/The.Wailing.2016.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2018/05/sniper.jpg" group-title="Movies 2016",sniper
