@@ -1282,9 +1282,8 @@ http://dl2.film2serial.ir/film2serial/film/doble/97/4/Rogue%20Warrior%20Robot%20
 http://dl2.film2serial.ir/film2serial/film/doble/97/3/The.Ballad.of.Lefty.Brown.2017.WEB-DL.720p.MkvCage%28Film2serial.ir%29.mkv
 #EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/06/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="8-Movies English",The Last Witness
 http://dl2.film2serial.ir/film2serial/film/asli/97/3/The.Last.Witness.2018.480p.WEB-DL.DibaMoviez.mkv
-#EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/07/Zombieland.jpg" group-title="9-Action EN",Zombieland
+#EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/07/Zombieland.jpg" group-title="Action EN",Zombieland
 http://dl4.cdn-france.info/f/Zombieland.Double.Tap.2019.720p.HDTS.MOVIE30T.CO.mkv
-
 #EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/02/Hobbs-Shaw.jpg" group-title="Action EN",Hobbs-Shaw 
 http://dl4.cdn-france.info/f/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.BRRip.MOVIE30T.CO.mkv
 #EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/10/The-Wheel.jpg" group-title="Action EN",The-Wheel 
