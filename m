@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/07/Fast-Furious-Presents-Hobbs-Shaw.jpg" group-title="1-Recently Add FA",Fast & Furious Presents: Hobbs & Shaw 2019
 http://s7.dlrozane.com/dlroozane/98/08/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/The-Last-Black-Man-in-San-Francisco.jpg" group-title="1-Recently Add FA",The Last Black Man in San Francisco 2019
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/The-Last-Black-Man-in-San-Francisco.jpg" group-title="3-Movies 2019",The Last Black Man in San Francisco 2019
 http://s7.dlrozane.com/dlroozane/98/08/The.Last.Black.Man.in.San.Francisco.2019.480p.BRRip.DUBLE.mkv
-#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Crawl.jpg" group-title="1-Recently Add FA",Crawl 2019
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Crawl.jpg" group-title="3-Movies 2019",Crawl 2019
 http://s7.dlrozane.com/dlroozane/98/07/Crawl.2019.480p.BRRip.DUBLE.mkv
-#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Lifechanger.jpg" group-title="1-Recently Add FA",Lifechanger 2018
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Lifechanger.jpg" group-title="4-Movies 2018",Lifechanger 2018
 http://s7.dlrozane.com/dlroozane/98/08/Lifechanger.2018.720p.WEB_DL.Dubbed.mkv
-#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Extreme-Job.jpg" group-title="1-Recently Add FA",Extreme Job 2019 
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Extreme-Job.jpg" group-title="3-Movies 2019",Extreme Job 2019 
 http://s7.dlrozane.com/dlroozane/98/07/Extreme.Job.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Shot-Caller.jpg" group-title="1-Recently Add FA",Shot Caller 2017
+#EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2019/10/Shot-Caller.jpg" group-title="5-Movies 2017",Shot Caller 2017
 http://s7.dlrozane.com/dlroozane/98/08/Shot.Caller.2017.480p.Dubble.Farsi.mkv
 #EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/07/Zombieland.jpg" group-title="2-Recently Add EN",Zombieland
 http://dl4.cdn-france.info/f/Zombieland.Double.Tap.2019.720p.HDTS.MOVIE30T.CO.mkv
@@ -1001,7 +1001,6 @@ http://s3.dlrozane.com/dlroozane/96/9/Bajrangi%20Bhaijaan%202015.720p.Farsi.mkv
 http://s3.dlrozane.com/dlroozane/96/9/Survivor.2015.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2017/11/Wolf-Warior.jpg" group-title="7-Movies 2000-2015",Wolf-Warior
 http://s3.dlrozane.com/dlroozane/96/10/Wolf.Warrior.2015.720p.Dubble.Farsi.mkv
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.doostihaa.com/img/uploads/2015/07/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring-2001.jpg" group-title="7-Movies 2000-2015",The-Lord-of-the-Rings1
 http://s1.doostihaa.com/files/Movie/2001/T/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.480p.Farsi.Dubbed.mp4
 #EXTINF:-1 tvg-logo="https://www.doostihaa.com/img/uploads/2015/07/The-Lord-of-the-Rings-The-Two-Towers-2002.jpg" group-title="7-Movies 2000-2015",The-Lord-of-the-Rings2
@@ -1570,4 +1569,62 @@ http://dl13.ftk.pw/user/shahab/film/Mid.way.2019.2019.2019.h.d.cm.Film2Movie_li.
 https://dl14.ftk.pw/film/Jo.ker.2019.480p.hd.rp.Film2Movie_li.mkv
 #EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Dont-Let-Go-2019.jpg" group-title="Horror EN",Dont Let Go 2019
 https://dl14.ftk.pw/film/Dont.Let.Go.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-1517-to-Paris.jpg" group-title="1-Recently Add FA",The 15:17 to Paris 2019
+http://s7.dlrozane.com/dlroozane/98/08/The.15.17.To.Paris.2018.720p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/master-z-the-ip-man-legacy.jpg" group-title="1-Recently Add FA",Master.Z 2018
+http://s7.dlrozane.com/dlroozane/98/08/Master.Z.The.Ip.Man.Legacy.2018.720p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Dora.jpg" group-title="1-Recently Add FA",Dora.and.the.Lost.City.of.Gold 2019
+http://s7.dlrozane.com/dlroozane/98/08/Dora.and.the.Lost.City.of.Gold.2019.480p.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/king.jpg" group-title="1-Recently Add FA",The.King.2019
+http://s4.dlrozane.com/dlroozane/98/08/The.King.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-Gangster-The-Cop-The-Devil.jpg" group-title="1-Recently Add FA",The Gangster The Cop The Devil 2019
+http://s7.dlrozane.com/dlroozane/98/08/The.Gangster.the.Cop.the.Devil.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2018/01/accent-man.jpg" group-title="1-Recently Add FA",Accident Man 2018
+http://s7.dlrozane.com/dlroozane/98/08/Accident.Man.2018.480p.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/master-z-the-ip-man-legacy.jpg" group-title="4-Movies 2018",Master.Z
+http://s7.dlrozane.com/dlroozane/98/08/Master.Z.The.Ip.Man.Legacy.2018.720p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Dora.jpg" group-title="3-Movies 2019",Dora.and.the.Lost.City.of.Gold
+http://s7.dlrozane.com/dlroozane/98/08/Dora.and.the.Lost.City.of.Gold.2019.480p.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/king.jpg" group-title="3-Movies 2019",The.King.
+http://s4.dlrozane.com/dlroozane/98/08/The.King.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-1517-to-Paris.jpg" group-title="3-Movies 2019",The 15:17 to Paris 2019
+http://s7.dlrozane.com/dlroozane/98/08/The.15.17.To.Paris.2018.720p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-Gangster-The-Cop-The-Devil.jpg" group-title="3-Movies 2019",The Gangster The Cop The Devil 
+http://s7.dlrozane.com/dlroozane/98/08/The.Gangster.the.Cop.the.Devil.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2018/01/accent-man.jpg" group-title="4-Movies 2018",Accident Man 
+http://s7.dlrozane.com/dlroozane/98/08/Accident.Man.2018.480p.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Black-and-Blue.jpg" group-title="1-Recently Add FA",Black.and.Blue.2019 HDCAM
+http://s7.dlrozane.com/dlroozane/98/08/Black.and.Blue.2019.720p.HDCAM.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Light-Of-My-Life.jpg" group-title="1-Recently Add FA",Light.of.My.Life.2019
+http://s7.dlrozane.com/dlroozane/98/08/Light.of.My.Life.2019.480p.BRRip.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/08/Scary-Stories-To-Tell-In-The-Dark.jpg" group-title="1-Recently Add FA",Scary.Stories.To.Tell.In.The.Dark.2019
+http://s7.dlrozane.com/dlroozane/98/08/Scary.Stories.To.Tell.In.The.Dark.2019.480p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Artik.jpg" group-title="1-Recently Add FA",Artik.2019
+http://s7.dlrozane.com/dlroozane/98/08/Artik.2019.720p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Ten-Minutes-Gone.jpg" group-title="1-Recently Add FA",10.Minutes.Gone.2019
+http://s7.dlrozane.com/dlroozane/98/08/10.Minutes.Gone.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Primal.jpg" group-title="1-Recently Add FA",Primal.2019
+http://s7.dlrozane.com/dlroozane/98/08/Primal.2019.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Blank.jpg" group-title="1-Recently Add FA",Blank.2019
+http://s7.dlrozane.com/dlroozane/98/08/Blank.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Journey-to-China-The-Mystery-of-Iron-Mask.jpg" group-title="1-Recently Add FA",Journey.to.China.The.Mystery.of.Iron.Mask.2019
+http://s7.dlrozane.com/dlroozane/98/08/Journey.to.China.The.Mystery.of.Iron.Mask.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Black-and-Blue.jpg" group-title="3-Movies 2019",Black.and.Blue.2019 HDCAM
+http://s7.dlrozane.com/dlroozane/98/08/Black.and.Blue.2019.720p.HDCAM.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Light-Of-My-Life.jpg" group-title="3-Movies 2019",Light.of.My.Life.2019
+http://s7.dlrozane.com/dlroozane/98/08/Light.of.My.Life.2019.480p.BRRip.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/08/Scary-Stories-To-Tell-In-The-Dark.jpg" group-title="3-Movies 2019",Scary.Stories.To.Tell.In.The.Dark.2019
+http://s7.dlrozane.com/dlroozane/98/08/Scary.Stories.To.Tell.In.The.Dark.2019.480p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Artik.jpg" group-title="3-Movies 2019",Artik.2019
+http://s7.dlrozane.com/dlroozane/98/08/Artik.2019.720p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Ten-Minutes-Gone.jpg" group-title="3-Movies 2019",10.Minutes.Gone.2019
+http://s7.dlrozane.com/dlroozane/98/08/10.Minutes.Gone.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Primal.jpg" group-title="3-Movies 2019",Primal.2019
+http://s7.dlrozane.com/dlroozane/98/08/Primal.2019.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Blank.jpg" group-title="3-Movies 2019",Blank.2019
+http://s7.dlrozane.com/dlroozane/98/08/Blank.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Journey-to-China-The-Mystery-of-Iron-Mask.jpg" group-title="3-Movies 2019",Journey.to.China.The.Mystery.of.Iron.Mask.2019
+http://s7.dlrozane.com/dlroozane/98/08/Journey.to.China.The.Mystery.of.Iron.Mask.2019.480p.Dubble.Farsi.mkv
+
+
 
