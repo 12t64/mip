@@ -1041,245 +1041,245 @@ http://s4.doostihaa.com/files/Movie/2011/P/POTC4.On.Stranger.Tides.2011.480p.Far
 http://s4.doostihaa.com/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.480p.2017.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/10/MV5BN2RmMDJmMTUtMTlkZi00NWQ5LWJkNDEtMzlhYmFlODg3YzBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX734_AL_.jpg" group-title="8-Movies English",Gemini Man
 http://dl2.film2serial.ir/film2serial/film/asli/98/7/GeminiMan-2019-720p-HDCam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/gfLNZn4yjoXOVRCSJEpHqjbV0ny.jpg" group-title="8-Movies English",Minutes Gone
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/gfLNZn4yjoXOVRCSJEpHqjbV0ny.jpg" group-title="8-Movies English",10 Minutes Gone 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/7/10.Minutes.Gone.2019.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/jm7fd55mysnERW6MxcXc42ueO87.jpg" group-title="8-Movies English",In the Shadow of the Moon
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/jm7fd55mysnERW6MxcXc42ueO87.jpg" group-title="8-Movies English",In the Shadow of the Moon 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/7/In.the.Shadow.of.the.Moon.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/1ZR4JK3pMM2p1ue8376xTm4UyOr.jpg" group-title="8-Movies English",Doom: Annihilation
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/1ZR4JK3pMM2p1ue8376xTm4UyOr.jpg" group-title="8-Movies English",Doom: Annihilation 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/7/Doom.Annihilation.2019.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="8-Movies English",Rambo: Last Blood
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="8-Movies English",Rambo: Last Blood 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/6/Rambo.Last.Blood.2019.720p.HDCam.SaNiG.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/bmQP5BjF5xwEGtJcCxY3MZpjI6T.jpg" group-title="8-Movies English",Angel of Mine
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/bmQP5BjF5xwEGtJcCxY3MZpjI6T.jpg" group-title="8-Movies English",Angel of Mine 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/6/Angel.Of.Mine.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="8-Movies English",Dark Phoenix
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/09/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="8-Movies English",Dark Phoenix 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/6/X.Men.Dark.Phoenix.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/In-This-Gray-Place-2018.jpg" group-title="8-Movies English",In-This-Gray-Place
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/In-This-Gray-Place-2018.jpg" group-title="8-Movies English",In-This-Gray-Place 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/In.This.Gray.Place.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="8-Movies English",John Wick: Chapter 3 – Parabellum
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="8-Movies English",John Wick: Chapter 3 – Parabellum 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/John.Wick.Chapter.3.Parabellum.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/t5H2tAgfRdlXTUSih5Ky4HeBbyk.jpg" group-title="8-Movies English",Night Hunter
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/t5H2tAgfRdlXTUSih5Ky4HeBbyk.jpg" group-title="8-Movies English",Night Hunter 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/Night.Hunter.2018.480p.HDRip..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/eu16QC1wqQlTVvrTJhDb8rpCtQ9.jpg" group-title="8-Movies English",Dora and the Lost City of Gold
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/eu16QC1wqQlTVvrTJhDb8rpCtQ9.jpg" group-title="8-Movies English",Dora and the Lost City of Gold 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/Dora.And.The.Lost.City.Of.Gold.2019.720p.HDCam.SaNiG.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg" group-title="8-Movies English",A Score to Settle
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg" group-title="8-Movies English",A Score to Settle 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/A.Score.to.Settle.2019.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/keym7MPn1icW1wWfzMnW3HeuzWU.jpg" group-title="8-Movies English",Fast & Furious Presents: Hobbs & Shaw
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/08/keym7MPn1icW1wWfzMnW3HeuzWU.jpg" group-title="8-Movies English",Fast & Furious Presents: Hobbs & Shaw 2019
 http://dl2.film2serial.ir/film2serial/film/doble/98/7/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.480p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="8-Movies English",Men in Black: International
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="8-Movies English",Men in Black: International 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/Men.in.Black.International.2019.480p.HC.HDRip..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/5ElXRKi773koW0mAnRjpNTpgZXZ.jpg" group-title="8-Movies English",Tolkien
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/5ElXRKi773koW0mAnRjpNTpgZXZ.jpg" group-title="8-Movies English",Tolkien 2010
 http://dl2.film2serial.ir/film2serial/film/asli/98/5/Tolkien.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/t58dx7JIgchr9If5uxn3NmHaHoS.jpg" group-title="8-Movies English",Breakthrough
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/t58dx7JIgchr9If5uxn3NmHaHoS.jpg" group-title="8-Movies English",Breakthrough 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/4/Breakthrough.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/jUnV7vpUEffMGtYVjZoX7qFuEJO.jpg" group-title="8-Movies English",Saving Leningrad
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/jUnV7vpUEffMGtYVjZoX7qFuEJO.jpg" group-title="8-Movies English",Saving Leningrad 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/4/Saving.Leningrad.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/hnrviFTsuYduELM9h4MaONLQHdG1.jpg" group-title="8-Movies English",Ride
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/hnrviFTsuYduELM9h4MaONLQHdG1.jpg" group-title="8-Movies English",Ride 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/4/Ride.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg" group-title="8-Movies English",Vice
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/07/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg" group-title="8-Movies English",Vice 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/6/Vice.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/lLbcqa8YnO2Qz4ggflhwglwXI8R.jpg" group-title="8-Movies English",Hollow Point
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/lLbcqa8YnO2Qz4ggflhwglwXI8R.jpg" group-title="8-Movies English",Hollow Point 2019
 http://dl2.film2serial.ir/film2serial/film/doble/98/4/Hollow.Point.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/Au7tg0IcN9SDTEi2tlJwxB9RLYt.jpg" group-title="8-Movies English",Escape Plan: The Extractors
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/Au7tg0IcN9SDTEi2tlJwxB9RLYt.jpg" group-title="8-Movies English",Escape Plan: The Extractors 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/4/Escape.Plan.The.Extractors.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/hy2rqt5TezQUnca8k1HZalQzqHs.jpg" group-title="8-Movies English",The Wolfs Call
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/hy2rqt5TezQUnca8k1HZalQzqHs.jpg" group-title="8-Movies English",The Wolfs Call 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/The.Wolfs.Call.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/pK7IYQdtdWtMDBJZfMqDxgMjXEt.jpg" group-title="8-Movies English",City of Lies
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/pK7IYQdtdWtMDBJZfMqDxgMjXEt.jpg" group-title="8-Movies English",City of Lies 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/City.of.Lies.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/ttN0czDnCpr64aj3ANGEf3DKE1L.jpg" group-title="8-Movies English",Dumbo
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/ttN0czDnCpr64aj3ANGEf3DKE1L.jpg" group-title="8-Movies English",Dumbo 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/Dumbo.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg" group-title="8-Movies English",Head.Hunter
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg" group-title="8-Movies English",Head.Hunter 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/The.Head.Hunter.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/u0DYgdlqM25ItQ6LyyhlOzQ6sKA.jpg" group-title="8-Movies English",End Trip
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/u0DYgdlqM25ItQ6LyyhlOzQ6sKA.jpg" group-title="8-Movies English",End Trip 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/End.Trip.2018.720p.WEB-DL.GalaxyRG.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/s7PJ4ZJhclkPb1shryBBbZku88k.jpg" group-title="8-Movies English",Big Ones
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/s7PJ4ZJhclkPb1shryBBbZku88k.jpg" group-title="8-Movies English",Big Ones 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/70.Big.Ones.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/fCQ13cqd02dop7Chkov0fPl4r3t-1.jpg" group-title="8-Movies English",Deadwood: The Movie
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/fCQ13cqd02dop7Chkov0fPl4r3t-1.jpg" group-title="8-Movies English",Deadwood: The Movie 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/Deadwood.The.Movie.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/4UM3WBgWvAXi9CaBXJjwAMnEY05.jpg" group-title="8-Movies English",Hotel Mumbai
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/06/4UM3WBgWvAXi9CaBXJjwAMnEY05.jpg" group-title="8-Movies English",Hotel Mumbai 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/Hotel.Mumbai.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg" group-title="8-Movies English",Stockholm
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg" group-title="8-Movies English",Stockholm 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/Stockholm.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg" group-title="8-Movies English",Walk. Ride. Rodeo
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg" group-title="8-Movies English",Walk. Ride. Rodeo 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Walk.Ride.Rodeo.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/4H5revarTrojWgPlSPF0UW03Nti.jpg" group-title="8-Movies English",Squadron 303
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/4H5revarTrojWgPlSPF0UW03Nti.jpg" group-title="8-Movies English",Squadron 303 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Squadron.303.2018.720p.6CH.RARBG.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/jmjmDPEEyIrITQ3WRNEUOcYLqse.jpg" group-title="8-Movies English",The Upside
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/jmjmDPEEyIrITQ3WRNEUOcYLqse.jpg" group-title="8-Movies English",The Upside 2017
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/The.Upside.2017.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/aORTBLvAdh95syKC7gDy4r6KdT1.jpg" group-title="8-Movies English",Lancaster Skies
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/aORTBLvAdh95syKC7gDy4r6KdT1.jpg" group-title="8-Movies English",Lancaster Skies 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Lancaster.Skies.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/8TmZN6LJyhD7Jb5i94oowqq0Dyh.jpg" group-title="8-Movies English",Violentia
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/05/8TmZN6LJyhD7Jb5i94oowqq0Dyh.jpg" group-title="8-Movies English",Violentia 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Violentia.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/2F4bOb48uHxS0H7YNcvLX7JdypP.jpg" group-title="8-Movies English",Mia and the White Lion
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/2F4bOb48uHxS0H7YNcvLX7JdypP.jpg" group-title="8-Movies English",Mia and the White Lion 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Mia.And.The.White.Lion.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/nbmevOFXOtx3n2pfj4gtSxpcSFh.jpg" group-title="8-Movies English",Little Wood
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/nbmevOFXOtx3n2pfj4gtSxpcSFh.jpg" group-title="8-Movies English",Little Wood 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Little.Woods.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/449tpF4xtwAC78dakS2XpDp7io5.jpg" group-title="8-Movies English",Captain Marvel
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/449tpF4xtwAC78dakS2XpDp7io5.jpg" group-title="8-Movies English",Captain Marvel 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Captain.Marvel.2019.720p.HDTS.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/w9GVlRteCgY103DN8CdFik3HUhO.jpg" group-title="8-Movies English",Arctic
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/w9GVlRteCgY103DN8CdFik3HUhO.jpg" group-title="8-Movies English",Arctic 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Arctic.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/yBaf5WjUqTQbc6mzPQBUcBiauDI.jpg" group-title="8-Movies English",The Professor and the Madman
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/yBaf5WjUqTQbc6mzPQBUcBiauDI.jpg" group-title="8-Movies English",The Professor and the Madman 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/The.Professor.and.the.Madman.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/rM7EZkR61k1KnCEptF8Z4L9vWQC.jpg" group-title="8-Movies English",Storm Boy
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/rM7EZkR61k1KnCEptF8Z4L9vWQC.jpg" group-title="8-Movies English",Storm Boy 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Storm.Boy.2019.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/2SjYLE1kOiw7A1NioP24ER0aXov.jpg" group-title="8-Movies English",The Man Who Killed Hitler and Then The Bigfoot
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/2SjYLE1kOiw7A1NioP24ER0aXov.jpg" group-title="8-Movies English",The Man Who Killed Hitler and Then The Bigfoot 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/The.Man.Who.Killed.Hitler.and.Then.The.Bigfoot.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/aH7i3prdBCMmpzsRqbLLhpnXNbM.jpg" group-title="8-Movies English",A Dark Place
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/aH7i3prdBCMmpzsRqbLLhpnXNbM.jpg" group-title="8-Movies English",A Dark Place 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/A.Dark.Place.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/aWENxGrJmXmHvifG6x2aYnpovXI.jpg" group-title="8-Movies English",The Kid Who Would Be King
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/04/aWENxGrJmXmHvifG6x2aYnpovXI.jpg" group-title="8-Movies English",The Kid Who Would Be King 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/The.Kid.Who.Would.Be.King.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg" group-title="8-Movies English",A Dog’s Way Home
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg" group-title="8-Movies English",A Dog’s Way Home 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/A.Dogs.Way.Home.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/vqVuqMkf6FZZIRxzwmCogaCdujJ.jpg" group-title="8-Movies English",White Chamber
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/vqVuqMkf6FZZIRxzwmCogaCdujJ.jpg" group-title="8-Movies English",White Chamber 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/White.Chamber.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/sNoaEpnzWXqVLdpQGrENHRCHJKR-1.jpg" group-title="8-Movies English",The Highwaymen
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/sNoaEpnzWXqVLdpQGrENHRCHJKR-1.jpg" group-title="8-Movies English",The Highwaymen 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/The.Highwaymen.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/MV5BYzY4NzIyNjktNzU1OC00YTEzLWI1MTYtYTE0ODc5MjllNzM2XkEyXkFqcGdeQXVyODY0NTAyMzQ@._V1.jpg" group-title="8-Movies English",The Belly of the Whale
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/MV5BYzY4NzIyNjktNzU1OC00YTEzLWI1MTYtYTE0ODc5MjllNzM2XkEyXkFqcGdeQXVyODY0NTAyMzQ@._V1.jpg" group-title="8-Movies English",The Belly of the Whale 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/The.Belly.of.the.Whale.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/o7GgZaWwuyAKcLNRwnI3ikibLLi.jpg" group-title="8-Movies English",Abduction
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/o7GgZaWwuyAKcLNRwnI3ikibLLi.jpg" group-title="8-Movies English",Abduction 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Abduction.2019.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/m7AxzI74tPt7S1oqVLANGebo7Ok.jpg" group-title="8-Movies English",Message Man
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/m7AxzI74tPt7S1oqVLANGebo7Ok.jpg" group-title="8-Movies English",Message Man 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Message.Man.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/9mZGa8EzviW1Q5ooq3k6M0IX2co.jpg" group-title="8-Movies English",Dragged Across Concrete
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/9mZGa8EzviW1Q5ooq3k6M0IX2co.jpg" group-title="8-Movies English",Dragged Across Concrete 2018
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Dragged.Across.Concrete.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/kVKb17XBTcYfituw0ycsP8sL1is.jpg" group-title="8-Movies English",Triple Threat
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/kVKb17XBTcYfituw0ycsP8sL1is.jpg" group-title="8-Movies English",Triple Threat 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/Triple.Threat.2019.480p.WEB-DL.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/uhmNHWTVniHHYKTsWSvSir19K1z.jpg" group-title="8-Movies English",Finding Steve McQueen
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/uhmNHWTVniHHYKTsWSvSir19K1z.jpg" group-title="8-Movies English",Finding Steve McQueen 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Finding.Steve.McQueen.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/7ypYkp97TQzXCdK19sNSxTfXFk3.jpg" group-title="8-Movies English",Stan & Ollie
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/7ypYkp97TQzXCdK19sNSxTfXFk3.jpg" group-title="8-Movies English",Stan & Ollie 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Stan.and.Ollie.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="8-Movies English",Triple Frontier
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="8-Movies English",Triple Frontier 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Triple.Frontier.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg" group-title="8-Movies English",Monstrum
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg" group-title="8-Movies English",Monstrum 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Monstrum.2018.720p.Ganool.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/6CBEK6D28TCCYLfEXYjfkr2TaiK.jpg" group-title="8-Movies English",Welcome to Mercy
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/6CBEK6D28TCCYLfEXYjfkr2TaiK.jpg" group-title="8-Movies English",Welcome to Mercy 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Welcome.to.Mercy.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/8B37CVd6EZEIY24xcmdqV3pbYM.jpg" group-title="8-Movies English",IO
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/8B37CVd6EZEIY24xcmdqV3pbYM.jpg" group-title="8-Movies English",IO 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/IO.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/eMx349I3yfYpmsP5T4FLbRuyP8e.jpg" group-title="8-Movies English",The Hard Way
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/eMx349I3yfYpmsP5T4FLbRuyP8e.jpg" group-title="8-Movies English",The Hard Way 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/The.Hard.Way.2019.720p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg" group-title="8-Movies English",The Standoff at Sparrow Creek
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg" group-title="8-Movies English",The Standoff at Sparrow Creek 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/The.Standoff.at.Sparrow.Creek.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg" group-title="8-Movies English",We Die Young
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/03/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg" group-title="8-Movies English",We Die Young 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/We.Die.Young.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/jOYUbe61DQiY628inVkR1KERS30.jpg" group-title="8-Movies English",Redcon-1
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/jOYUbe61DQiY628inVkR1KERS30.jpg" group-title="8-Movies English",Redcon-1 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Redcon-1.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg" group-title="8-Movies English",O.G.
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg" group-title="8-Movies English",O.G. 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/O.G.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/4sSaU62086DF8ETfVwgLm843NmF.jpg" group-title="8-Movies English",Trading Paint
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/4sSaU62086DF8ETfVwgLm843NmF.jpg" group-title="8-Movies English",Trading Paint 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Trading.Paint.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/h70wRv6iWxiqED4orqfxcEl74Rc.jpg" group-title="8-Movies English",Green Book
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/h70wRv6iWxiqED4orqfxcEl74Rc.jpg" group-title="8-Movies English",Green Book 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Green.Book.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/1Y09MkMJ8CESSPW4fcbDm9s5cAS-1.jpg" group-title="8-Movies English",Kursk
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/1Y09MkMJ8CESSPW4fcbDm9s5cAS-1.jpg" group-title="8-Movies English",Kursk 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Kursk.2018.480p.HC.HDRip..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg" group-title="8-Movies English",Robin Hood
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg" group-title="8-Movies English",Robin Hood 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Robin.Hood.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/r4XDWsBWMzpoNm5fUMjr9cyY5rI.jpg" group-title="8-Movies English",The Isle
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/r4XDWsBWMzpoNm5fUMjr9cyY5rI.jpg" group-title="8-Movies English",The Isle 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/The.Isle.2019.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/l76Rgp32z2UxjULApxGXAPpYdAP.jpg" group-title="8-Movies English",Overlord
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/l76Rgp32z2UxjULApxGXAPpYdAP.jpg" group-title="8-Movies English",Overlord 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Overlord.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/ynjQ0JRs07AZ3zckAazTmYurJ8o.jpg" group-title="8-Movies English",Point Man
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/ynjQ0JRs07AZ3zckAazTmYurJ8o.jpg" group-title="8-Movies English",Point Man 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Point.Man.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/18zsFrHwMKFfvIaIp2FWR16i13W.jpg" group-title="8-Movies English",Cops
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/18zsFrHwMKFfvIaIp2FWR16i13W.jpg" group-title="8-Movies English",Cops 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Cops.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg" group-title="8-Movies English",Mortal Engines
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg" group-title="8-Movies English",Mortal Engines 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Mortal.Engines.2018.480p.HC.HDRip..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/hzGucIIZ6anGUtfCydgnkMj92dH4.jpg" group-title="8-Movies English",Gosnell
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/hzGucIIZ6anGUtfCydgnkMj92dH4.jpg" group-title="8-Movies English",Gosnell 2018
 http://dl2.film2serial.ir/film2serial/film/doble/97/11/Gosnell.The.Trial.of.Americas.Biggest.Serial.Killer.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/f27RTnWEc2bhVtfSlKmxxypznfR.jpg" group-title="8-Movies English",Widows
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/f27RTnWEc2bhVtfSlKmxxypznfR.jpg" group-title="8-Movies English",Widows 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Widows.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/aG5GS0V15Zpk8zvsww02faNT0QI.jpg" group-title="8-Movies English",Glass
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/aG5GS0V15Zpk8zvsww02faNT0QI.jpg" group-title="8-Movies English",Glass 2019
 http://dl2.film2serial.ir/film2serial/film/asli/98/3/Glass.2019.480p.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/3m2SRfLsdCnbn4n4iQZV7sEXGNX.jpg" group-title="8-Movies English",Backtrace
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/3m2SRfLsdCnbn4n4iQZV7sEXGNX.jpg" group-title="8-Movies English",Backtrace 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/10/Backtrace.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/MV5BYzEzN2IzZTgtYTFjZC00NTc5LTkyNm11.jpg" group-title="8-Movies English",Ashes in the Snow
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/MV5BYzEzN2IzZTgtYTFjZC00NTc5LTkyNm11.jpg" group-title="8-Movies English",Ashes in the Snow 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/10/Ashes.in.the.Snow.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/zfDN0YX1BNRsnCnp1mWOaiGeN9y.jpg" group-title="8-Movies English",The Hate U Give
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/zfDN0YX1BNRsnCnp1mWOaiGeN9y.jpg" group-title="8-Movies English",The Hate U Give 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/10/The.Hate.U.Give.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/5HKn2CecRi2OlyC3T6FZz4QqkW5.jpg" group-title="8-Movies English",The Vanishing
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/01/5HKn2CecRi2OlyC3T6FZz4QqkW5.jpg" group-title="8-Movies English",The Vanishing 2018
 http://dl2.film2serial.ir/film2serial/film/doble/97/10/The.Vanishing.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/uS6aDWRNHvr0ofjPkmvCkzy0x8d.jpg" group-title="8-Movies English",Beasts of the Southern Wild
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/uS6aDWRNHvr0ofjPkmvCkzy0x8d.jpg" group-title="8-Movies English",Beasts of the Southern Wild 2017
 http://dl2.film2serial.ir/film2serial/film/asli/97/10/Beasts.Of.The.Southern.Wild.2012.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg" group-title="8-Movies English",Johnny English Strikes Again
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg" group-title="8-Movies English",Johnny English Strikes Again 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/10/Johnny.English.Strikes.Again.2018.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg" group-title="8-Movies English",Aquaman
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg" group-title="8-Movies English",Aquaman 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/Aquaman.2018.IMAX.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg" group-title="8-Movies English",Bad Times at the El Royale
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg" group-title="8-Movies English",Bad Times at the El Royale 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Bad.Times.at.the.El.Royale.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/plpP0LPm87Atd5GtrT15IBsvXNb.jpg" group-title="8-Movies English",The House with a Clock in Its Walls
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/plpP0LPm87Atd5GtrT15IBsvXNb.jpg" group-title="8-Movies English",The House with a Clock in Its Walls 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/The.House.with.a.Clock.in.Its.Walls.2018.480p.GECKOS.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/lJwqPEQG5Vl5A4Vk7eXOBwBqaCg.jpg" group-title="8-Movies English",Belle and Sebastian, Friends for Life
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/lJwqPEQG5Vl5A4Vk7eXOBwBqaCg.jpg" group-title="8-Movies English",Belle and Sebastian, Friends for Life 2017
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Belle.And.Sebastian.3.2017.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/9AHH96n0Hav1h9PxMFhJB7dG8OE.jpg" group-title="8-Movies English",Dark Was the Night
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/9AHH96n0Hav1h9PxMFhJB7dG8OE.jpg" group-title="8-Movies English",Dark Was the Night 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Dark.Was.the.Night.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/MV5BMTc2ODUyNDAxMF5BMl5BanBnX.jpg" group-title="8-Movies English",Night School
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/MV5BMTc2ODUyNDAxMF5BMl5BanBnX.jpg" group-title="8-Movies English",Night School 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Night.School.2018.480p.WEB-DL.TFPDL.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/qcA3xZRMzq6dJ4eLpI5hAvq5td.jpg" group-title="8-Movies English",Dirt
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/qcA3xZRMzq6dJ4eLpI5hAvq5td.jpg" group-title="8-Movies English",Dirt 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Dirt.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="8-Movies English",Creed II
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="8-Movies English",Creed II 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/11/Creed.II.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/Earth-to-Echo-2014.jpg" group-title="8-Movies English",Earth to Echo
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/12/Earth-to-Echo-2014.jpg" group-title="8-Movies English",Earth to Echo 2014
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Earth_to_Echo_2014_720p_.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/11/rT49ousKUWN3dV7UlhaC9onTNdl.jpg" group-title="8-Movies English",Outlaw King
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/11/rT49ousKUWN3dV7UlhaC9onTNdl.jpg" group-title="8-Movies English",Outlaw King 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/8/Outlaw.King.2018.480p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/11/xxzDqQKNmNJPukTK7zux7gqaY6D.jpg" group-title="8-Movies English",River Runs Red
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/11/xxzDqQKNmNJPukTK7zux7gqaY6D.jpg" group-title="8-Movies English",River Runs Red 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/8/River.Runs.Red.2018.720p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/iI2VmSkFSg9Tiq7o74HLm1L5aBB.jpg" group-title="8-Movies English",Between Worlds
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/iI2VmSkFSg9Tiq7o74HLm1L5aBB.jpg" group-title="8-Movies English",Between Worlds 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/7/Between.Worlds.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="8-Movies English",Venom
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="8-Movies English",Venom 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/9/Venom.2018.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/yxX0nyQaTE87Odvg91lnqMU7gwT.jpg" group-title="8-Movies English",3
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/10/yxX0nyQaTE87Odvg91lnqMU7gwT.jpg" group-title="8-Movies English",3 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/7/3.An.Eye.For.an.Eye.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/gwMbDrDJpNpuStPUFUxM8onQHB.jpg" group-title="8-Movies English",The Meg
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/gwMbDrDJpNpuStPUFUxM8onQHB.jpg" group-title="8-Movies English",The Meg 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/8/The.Meg.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/MV5BYjAyNjI3YzMtNjNjOC00YmJjLTg1OTctMmUwNGJlZTIzMzQ5XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg" group-title="8-Movies English",Any Bullet Will Do
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/MV5BYjAyNjI3YzMtNjNjOC00YmJjLTg1OTctMmUwNGJlZTIzMzQ5XkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_.jpg" group-title="8-Movies English",Any Bullet Will Do 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Any.Bullet.Will.Do.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/taS8PKlS684NkYrEMnIBS59pDu5.jpg" group-title="8-Movies English",Sgt. Stubby: An American Hero
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/taS8PKlS684NkYrEMnIBS59pDu5.jpg" group-title="8-Movies English",Sgt. Stubby: An American Hero 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Sgt.Stubby.An.American.Hero.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/gnj2opTQWGaLtB7kZ4OuMtG2RWa3.jpg" group-title="8-Movies English",Unfriended: Dark Web
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/gnj2opTQWGaLtB7kZ4OuMtG2RWa3.jpg" group-title="8-Movies English",Unfriended: Dark Web 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Unfriended.Dark.Web.2018.480p.HC.HDRip..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2yzvCVg44KCw3L9dBlBuP41AEjq.jpg" group-title="8-Movies English",The Resistance Banker
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2yzvCVg44KCw3L9dBlBuP41AEjq.jpg" group-title="8-Movies English",The Resistance Banker 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/The.Resistance.Banker.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2Cr8cZhtiu9evgkp3IGajIdbM4b.jpg" group-title="8-Movies English",Silencer
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/2Cr8cZhtiu9evgkp3IGajIdbM4b.jpg" group-title="8-Movies English",Silencer 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Silencer.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/j7hlA4Ha2beuA67tuk68kf28PrK.jpg" group-title="8-Movies English",The Dawnseeker
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/j7hlA4Ha2beuA67tuk68kf28PrK.jpg" group-title="8-Movies English",The Dawnseeker 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/The.Dawnseeker.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/yGZfL1rBfFjMUaGufonERH53X0T.jpg" group-title="8-Movies English",Reprisal
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/yGZfL1rBfFjMUaGufonERH53X0T.jpg" group-title="8-Movies English",Reprisal 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Reprisal.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/rv1AWImgx386ULjcf62VYaW8zSt.jpg" group-title="8-Movies English",Ant-Man and the Wasp
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/09/rv1AWImgx386ULjcf62VYaW8zSt.jpg" group-title="8-Movies English",Ant-Man and the Wasp 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Ant-Man.and.The.Wasp.2018.NEW.720p.HDTC.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="8-Movies English",American Animals
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="8-Movies English",American Animals 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/American.Animals.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/ovaavz43B8TMlli5AuSVeiFhi63.jpg" group-title="8-Movies English",Down a Dark Hall
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/ovaavz43B8TMlli5AuSVeiFhi63.jpg" group-title="8-Movies English",Down a Dark Hall 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Down.a.Dark.Hall.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BNzQ3NzY0NzktYWUwZC00ZT.jpg" group-title="8-Movies English",Enter The Wild
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BNzQ3NzY0NzktYWUwZC00ZT.jpg" group-title="8-Movies English",Enter The Wild 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Enter.The.Wild.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/tqistSlQGQVlvDZHweDP3qCplMP.jpg" group-title="8-Movies English",Upgrade
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/tqistSlQGQVlvDZHweDP3qCplMP.jpg" group-title="8-Movies English",Upgrade 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Upgrade.2018.480p.WEB-DL..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/5LYSsOPzuP13201qSzMjNxi8FxN.jpg" group-title="8-Movies English",Skyscraper
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/5LYSsOPzuP13201qSzMjNxi8FxN.jpg" group-title="8-Movies English",Skyscraper 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/7/Skyscraper.2018.480p.SPARKS.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BZTk2NDhjNDUtMTQxMi00ZDY1LTk2MTAtZWIyMThkZDAwOGM4XkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_SY1000_CR006661000_AL_.jpg" group-title="8-Movies English",The Barn
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/MV5BZTk2NDhjNDUtMTQxMi00ZDY1LTk2MTAtZWIyMThkZDAwOGM4XkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_SY1000_CR006661000_AL_.jpg" group-title="8-Movies English",The Barn 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/The.Barn.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/nDZFsjClO6wfKLxd9CEDT4rVv6R1.jpg" group-title="8-Movies English",The Equalizer2
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/nDZFsjClO6wfKLxd9CEDT4rVv6R1.jpg" group-title="8-Movies English",The Equalizer2 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/8/The.Equalizer.2.2018.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="8-Movies English",Mission: Impossible – Fallout
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/08/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="8-Movies English",Mission: Impossible – Fallout 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/8/Mission.Impossible.Fallout.2018.IMAX.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="8-Movies English",Deadpool 2
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="8-Movies English",Deadpool 2 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Deadpool.2.2018.EXTENDED.480p.Pahe.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/n6aVHV5Id47dlaEro9DsijzStIU.jpg" group-title="8-Movies English",Escape Plan II
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/n6aVHV5Id47dlaEro9DsijzStIU.jpg" group-title="8-Movies English",Escape Plan II 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Escape.Plan.2.Hades.2018.480p..mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="8-Movies English",Jurassic World: Fallen Kingdom
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="8-Movies English",Jurassic World: Fallen Kingdom 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/6/Jurassic.World.2018.480p.RMTeam.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-2002.jpg" group-title="8-Movies English",Resident Evil
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-2002.jpg" group-title="8-Movies English",Resident Evil 2002
 http://dl2.film2serial.ir/film2serial/film/doble/97/4/Resident_Evil_2002_720p_Ganool_.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-Apocalypse-2004.jpg" group-title="8-Movies English",Resident Evil: Apocalypse
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-Apocalypse-2004.jpg" group-title="8-Movies English",Resident Evil: Apocalypse 2004
 http://dl2.film2serial.ir/film2serial/film/doble/97/4/Resident_Evil_Apocalypse_2004_720p_NM_.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-The-Final-Chapter-2016.jpg" group-title="8-Movies English",Resident Evil: The Final Chapter
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Resident-Evil-The-Final-Chapter-2016.jpg" group-title="8-Movies English",Resident Evil: The Final Chapter 2016
 http://dl2.film2serial.ir/film2serial/film/asli/97/4/Resident_Evil_The_Final_Chapter_2016_480p_RMTeam_.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Rogue-Warrior-Robot-Fighter-2017.jpg" group-title="8-Movies English",Rogue Warrior: Robot Fighter
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/07/Rogue-Warrior-Robot-Fighter-2017.jpg" group-title="8-Movies English",Rogue Warrior: Robot Fighter 2017
 http://dl2.film2serial.ir/film2serial/film/doble/97/4/Rogue%20Warrior%20Robot%20Fighter%202017%20720p%20WEB-DL.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/06/The-Ballad-of-Lefty-Brown-2017.jpg" group-title="8-Movies English",The Ballad of Lefty Brown
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/06/The-Ballad-of-Lefty-Brown-2017.jpg" group-title="8-Movies English",The Ballad of Lefty Brown 2017
 http://dl2.film2serial.ir/film2serial/film/doble/97/3/The.Ballad.of.Lefty.Brown.2017.WEB-DL.720p.MkvCage%28Film2serial.ir%29.mkv
-#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/06/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="8-Movies English",The Last Witness
+#EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2018/06/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg" group-title="8-Movies English",The Last Witness 2018
 http://dl2.film2serial.ir/film2serial/film/asli/97/3/The.Last.Witness.2018.480p.WEB-DL.DibaMoviez.mkv
 #EXTINF:-1 tvg-logo="http://movie30t.co/wp-content/uploads/2019/07/Zombieland.jpg" group-title="Action EN",Zombieland
 http://dl4.cdn-france.info/f/Zombieland.Double.Tap.2019.720p.HDTS.MOVIE30T.CO.mkv
@@ -1625,6 +1625,106 @@ http://s7.dlrozane.com/dlroozane/98/08/Primal.2019.480p.WEB-DL.mkv
 http://s7.dlrozane.com/dlroozane/98/08/Blank.2019.480p.WEB-DL.DUBLE.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Journey-to-China-The-Mystery-of-Iron-Mask.jpg" group-title="3-Movies 2019",Journey.to.China.The.Mystery.of.Iron.Mask.2019
 http://s7.dlrozane.com/dlroozane/98/08/Journey.to.China.The.Mystery.of.Iron.Mask.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Grizzly-Man-2005.jpg" group-title="Documentary EN",Grizzly.Man
+http://dl13.ftk.pw/user/shahab/film/Grizzly.Man.2005.480p.BluRay.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Honeyland-2019.jpg" group-title="Documentary EN",Honeyland
+https://dl14.ftk.pw/film/Honeyland.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/America-Wild-National-Parks-Adventure-2016.jpg" group-title="Documentary EN",America.Wild.National.Parks.Adventure
+http://dl13.ftk.pw/user/shahab/film/America.Wild.National.Parks.Adventure.2016.480p.BluRay.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Attenborough-And-The-Sea-Dragon-2018.jpg" group-title="Documentary EN",Attenborough.and.The.Sea.Dragon
+http://dl13.ftk.pw/user/shahab/film/Attenborough.and.The.Sea.Dragon.2017.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Fire-In-Paradise-2018.jpg" group-title="Documentary EN",Fire.In.Paradise
+https://dl14.ftk.pw/film/Fire.In.Paradise.2018.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Dancing-With-The-Birds-2019.jpg" group-title="Documentary EN",Dancing.With.The.Birds
+http://dl13.ftk.pw/film/Dancing.With.The.Birds.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Birders-2019.jpg" group-title="Documentary EN",Birders
+http://dl13.ftk.pw/film/Birders.2019.480p.WEB-DL.Film2Movie_WS.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Pavarotti-2019.jpg" group-title="Documentary EN",Pavarotti
+http://dl13.ftk.pw/film/Pavarotti.2019.480p.BluRay.Film2Movie_WS.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Super-Size-Me-2-2017.jpg" group-title="Documentary EN",Super.Size.Me
+http://dl13.ftk.pw/film/Super.Size.Me%202.2017.480p.WEB-DL.Film2Movie_WS.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/The-Biggest-Little-Farm-2018.jpg" group-title="Documentary EN",The-Biggest-Little-Farm
+http://dl13.ftk.pw/film/The.Biggest.Little.Farm.2018.480p.BluRay.Film2Movie_WS.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Dead-in-a-Week-Or-Your-Money-Back.jpg" group-title="1-Recently Add FA",Dead.in.a.Week.Or.Your.Money.Back.2018
+http://s7.dlrozane.com/dlroozane/98/10/Dead.in.a.Week.Or.Your.Money.Back.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Dead-in-a-Week-Or-Your-Money-Back.jpg" group-title="4-Movies 2018",Dead.in.a.Week.Or.Your.Money.Back.2018
+http://s7.dlrozane.com/dlroozane/98/10/Dead.in.a.Week.Or.Your.Money.Back.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/In-the-Shadow-of-the-Moon.jpg" group-title="1-Recently Add FA",In.the.Shadow.of.the.Moon.2019
+http://s7.dlrozane.com/dlroozane/98/10/In.the.Shadow.of.the.Moon.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/In-the-Shadow-of-the-Moon.jpg" group-title="3-Movies 2019",In.the.Shadow.of.the.Moon.2019
+http://s7.dlrozane.com/dlroozane/98/10/In.the.Shadow.of.the.Moon.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Who-Am-I.jpg" group-title="1-Recently Add FA",Who.Am.I.2014
+http://s7.dlrozane.com/dlroozane/98/10/Who.Am.I.2014.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Who-Am-I.jpg" group-title="7-Movies 2000-2015",Who.Am.I.2014
+http://s7.dlrozane.com/dlroozane/98/10/Who.Am.I.2014.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-Irishman-1.jpg" group-title="1-Recently Add FA",The.Irishman.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Irishman.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/The-Irishman-1.jpg" group-title="3-Movies 2019",The.Irishman.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Irishman.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/6-Underground.jpg" group-title="1-Recently Add FA",Six.Underground.2019
+http://s7.dlrozane.com/dlroozane/98/10/Six.Underground.2019.480p.wb-dl.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/6-Underground.jpg" group-title="3-Movies 2019",Six.Underground.2019
+http://s7.dlrozane.com/dlroozane/98/10/Six.Underground.2019.480p.wb-dl.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Journey-to-China-The-Mystery-of-Iron-Mask.jpg" group-title="1-Recently Add FA",Viy.2.Journey.To.China.2019
+http://s7.dlrozane.com/dlroozane/98/10/Viy.2.Journey.To.China.2019.480p.WEB-DL.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Journey-to-China-The-Mystery-of-Iron-Mask.jpg" group-title="3-Movies 2019",Viy.2.Journey.To.China.2019
+http://s7.dlrozane.com/dlroozane/98/10/Viy.2.Journey.To.China.2019.480p.WEB-DL.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/In-the-Tall-Grass.jpg" group-title="1-Recently Add FA",In.the.Tall.Grass.2019
+http://s7.dlrozane.com/dlroozane/98/10/In.the.Tall.Grass.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/In-the-Tall-Grass.jpg" group-title="3-Movies 2019",In.the.Tall.Grass.2019
+http://s7.dlrozane.com/dlroozane/98/10/In.the.Tall.Grass.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Kitchen.jpg" group-title="1-Recently Add FA",The.Kitchen.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Kitchen.2019.720p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Kitchen.jpg" group-title="3-Movies 2019",The.Kitchen.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Kitchen.2019.720p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Marine-6-Close-Quarters.jpg" group-title="1-Recently Add FA",The.Marine.6.Close.Quarters.2018
+http://s7.dlrozane.com/dlroozane/98/10/The.Marine.6.Close.Quarters.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Marine-6-Close-Quarters.jpg" group-title="4-Movies 2018",The.Marine.6.Close.Quarters.2018
+http://s7.dlrozane.com/dlroozane/98/10/The.Marine.6.Close.Quarters.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Joker.jpg" group-title="1-Recently Add FA",Joker.2019
+http://s7.dlrozane.com/dlroozane/98/10/Joker.2019.480p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Joker.jpg" group-title="3-Movies 2019",Joker.2019
+http://s7.dlrozane.com/dlroozane/98/10/Joker.2019.480p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Ready-or-Not.jpg" group-title="1-Recently Add FA",Ready.or.Not.2019
+http://s7.dlrozane.com/dlroozane/98/09/Ready.or.Not.2019.720p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Ready-or-Not.jpg" group-title="3-Movies 2019",Ready.or.Not.2019
+http://s7.dlrozane.com/dlroozane/98/09/Ready.or.Not.2019.720p.BluRay.x264.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/07/Ad-Astra.jpg" group-title="1-Recently Add FA",Ad.Astra.2019
+http://s7.dlrozane.com/dlroozane/98/09/Ad.As.tra.2019.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/07/Ad-Astra.jpg" group-title="3-Movies 2019",Ad.Astra.2019
+http://s7.dlrozane.com/dlroozane/98/09/Ad.As.tra.2019.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Goldfinch.jpg" group-title="1-Recently Add FA",The.Goldfinch.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Goldfinch.2019.480p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/The-Goldfinch.jpg" group-title="3-Movies 2019",The.Goldfinch.2019
+http://s7.dlrozane.com/dlroozane/98/09/The.Goldfinch.2019.480p.BluRay.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/04/Close.jpg" group-title="1-Recently Add FA",Close.2019
+http://s7.dlrozane.com/dlroozane/98/09/Close.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/04/Close.jpg" group-title="3-Movies 2019",Close.2019
+http://s7.dlrozane.com/dlroozane/98/09/Close.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/04/Gemini-Man-1.jpg" group-title="1-Recently Add FA",Gemini.Man.2019
+http://s7.dlrozane.com/dlroozane/98/09/Gemini.Man.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/04/Gemini-Man-1.jpg" group-title="3-Movies 2019",Gemini.Man.2019
+http://s7.dlrozane.com/dlroozane/98/09/Gemini.Man.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Blood-Brother.jpg" group-title="1-Recently Add FA",Blood.Brother.2018
+http://s7.dlrozane.com/dlroozane/98/09/Blood.Brother.2018.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Blood-Brother.jpg" group-title="4-Movies 2018",Blood.Brother.2018
+http://s7.dlrozane.com/dlroozane/98/09/Blood.Brother.2018.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Black-47.jpg" group-title="1-Recently Add FA",Black.47.2018
+http://s7.dlrozane.com/dlroozane/98/09/Bla.ck.47.2018.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Black-47.jpg" group-title="4-Movies 2018",Black.47.2018
+http://s7.dlrozane.com/dlroozane/98/09/Bla.ck.47.2018.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Integrity.jpg" group-title="1-Recently Add FA",Integrity.2019
+http://s7.dlrozane.com/dlroozane/98/09/Integrity.2019.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/12/Integrity.jpg" group-title="3-Movies 2019",Integrity.2019
+http://s7.dlrozane.com/dlroozane/98/09/Integrity.2019.480p.BluRay.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/05/Once-Upon-a-Time-in-Hollywood.jpg" group-title="1-Recently Add FA",Once.Upon.a.Time.in.Hollywood.2019
+http://s7.dlrozane.com/dlroozane/98/09/Once.Upon.a.Time.in.Hollywood.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/05/Once-Upon-a-Time-in-Hollywood.jpg" group-title="3-Movies 2019",Once.Upon.a.Time.in.Hollywood.2019
+http://s7.dlrozane.com/dlroozane/98/09/Once.Upon.a.Time.in.Hollywood.2019.480p.Dubble.Farsi.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Haunt.jpg" group-title="1-Recently Add FA",Haunt.2019
+http://s7.dlrozane.com/dlroozane/98/09/Haunt.2019.480p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/11/Haunt.jpg" group-title="3-Movies 2019",Haunt.2019
+http://s7.dlrozane.com/dlroozane/98/09/Haunt.2019.480p.WEB-DL.DUBLE.mkv
 
 
 
