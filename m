@@ -1,261 +1,456 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Inherit-the-Viper.jpg" group-title="1-Recently Add FA", Inherit the Viper 2019
-https://s4.dlrozane.net/dlroozane/99/02/Inherit.The.Viper.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Gwen.jpg" group-title="1-Recently Add FA",Gwen 2018
-https://s4.dlrozane.net/dlroozane/99/02/Gwen.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/A-Dogs-Journey.jpg" group-title="1-Recently Add FA",A Dog’s Journey 2019
-https://s4.dlrozane.net/dlroozane/99/02/A.Dogs.Journey.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Kingdom.jpg" group-title="1-Recently Add FA", Kingdom 2019
-https://s4.dlrozane.net/dlroozane/99/03/Kingdom.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Eminence-Hill-2019.jpg" group-title="1-Recently Add FA",Eminence Hill 2019 
-https://s4.dlrozane.net/dlroozane/99/02/Eminence.Hill.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Honey-Boy.jpg" group-title="1-Recently Add FA",Honey Boy 2019
-https://s4.dlrozane.net/dlroozane/99/02/Honey.Boy.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Heroic-Losers.jpg" group-title="1-Recently Add FA",Heroic Losers 2019
-https://s4.dlrozane.net/dlroozane/99/02/Heroic.Losers.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Dragonheart-Vengeance.jpg" group-title="1-Recently Add FA",Dragonheart Vengeance 2020
-https://s4.dlrozane.net/dlroozane/99/02/Dragonheart.Vengeance.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Heavenquest-A-Pilgrims-Progress.jpg" group-title="1-Recently Add FA", Heavenquest A Pilgrim’s Progress 2020
-https://s4.dlrozane.net/dlroozane/99/02/Heavenquest.A.Pilgrims.Progress.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Adventure-of-A.R.I.-My-Robot-Friend.jpg" group-title="1-Recently Add FA",The Adventure of A.R.I My Robot Friend 2020
-https://s4.dlrozane.net/dlroozane/99/02/The.Adventure.of.A.R.I.My.Robot.Friend.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/09/Bad-Boys-For-Life.jpg" group-title="1-Recently Add FA",Bad Boys For Life 2020
-https://s4.dlrozane.net/dlroozane/99/01/Bad.Boys.For.Life.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Broken-Swords-The-Last-in-Line.jpg" group-title="1-Recently Add FA",Broken Swords The Last in Line 2018
-https://s4.dlrozane.net/dlroozane/99/02/Broken.Swords.The.Last.in.Line.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Nightingale.jpg" group-title="1-Recently Add FA",The Nightingale 2018
-https://s4.dlrozane.net/dlroozane/99/02/The.Nightingale.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Climbers.jpg" group-title="1-Recently Add FA",The Climbers 2019
-https://s4.dlrozane.net/dlroozane/99/02/The.Climbers.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Pinocchio-2019.jpg" group-title="1-Recently Add FA", Pinocchio 2019
-https://s4.dlrozane.net/dlroozane/99/02/Pinocchio.2019.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Recep-Ivedik-6.jpg" group-title="1-Recently Add FA",Recep Ivedik 6 2019
-https://s4.dlrozane.net/dlroozane/99/02/Recep.Ivedik.6.2019.480p.WEB-DL.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Legend-of-Zu.jpg" group-title="1-Recently Add FA",The Legend of Zu 2018
-https://s4.dlrozane.net/dlroozane/99/02/The.Legend.of.Zu.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Detective-Chinatown-2.jpg" group-title="1-Recently Add FA",Detective Chinatown 2 2018
-https://s4.dlrozane.net/dlroozane/99/02/Detective.Chinatown.2.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Nightshift.jpg" group-title="1-Recently Add FA",Night Shift 2018
-https://s4.dlrozane.net/dlroozane/99/02/Night.Shift.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Bloodline.jpg" group-title="1-Recently Add FA",Bloodline 2018
-https://s4.dlrozane.net/dlroozane/99/02/Bloodline.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/02/Ashfall.jpg" group-title="1-Recently Add FA",Ashfall 2019
-https://s4.dlrozane.net/dlroozane/99/02/Ashfall.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Sprinter-2018.jpg" group-title="1-Recently Add FA",Sprinter 2018
-https://s4.dlrozane.net/dlroozane/99/02/Sprinter.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Batla-House.jpg" group-title="1-Recently Add FA",Batla House 2019
-https://s4.dlrozane.net/dlroozane/99/02/Batla.House.2019.480P.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Tale.jpg" group-title="1-Recently Add FA",The Tale 2018
-https://s4.dlrozane.net/dlroozane/99/02/The.Tale.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Kalashnikov.jpg" group-title="1-Recently Add FA",Kalashnikov 2020 
-https://s4.dlrozane.net/dlroozane/99/02/Kalashnikov.2020.480p.WEB-DL.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/While-the-Wolfs-Away-2017.jpg" group-title="1-Recently Add FA",While the Wolf’s Away 2017
-https://s4.dlrozane.net/dlroozane/99/02/While.the.Wolf%27s.Away.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/arkansas.jpg" group-title="1-Recently Add FA",Arkansas 2020
-https://s4.dlrozane.net/dlroozane/99/02/Arkansas%202020%20480p%20Farsi%20Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/The-Lodge.jpg" group-title="1-Recently Add FA", The Lodge 2019
-https://s4.dlrozane.net/dlroozane/99/02/The.Lodge.2019.480P.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Warfighter.jpg" group-title="1-Recently Add FA",Warfighter 2018
-https://s4.dlrozane.net/dlroozane/99/02/Warfighter.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Tankers.jpg" group-title="1-Recently Add FA",Tankers 2018
-https://s4.dlrozane.net/dlroozane/99/02/Tankers.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Banker.jpg" group-title="1-Recently Add FA",The Banker 2020
-https://s4.dlrozane.net/dlroozane/99/03/The.Banker.2020.480P.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Vikram-Vedha.jpg" group-title="1-Recently Add FA",Vikram Vedha 2017 
-https://s4.dlrozane.net/dlroozane/99/03/Vikram.Vedha.2017.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Shifting-Gears.jpg" group-title="1-Recently Add FA",Shifting Gears 2018
-https://s4.dlrozane.net/dlroozane/99/03/Shifting.Gears.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Happy-as-Lazzaro.jpg" group-title="1-Recently Add FA",Happy as Lazzaro 2018
-https://s4.dlrozane.net/dlroozane/99/03/Happy.As.Lazzaro.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Spider-in-the-Web.jpg" group-title="1-Recently Add FA",Spider in the Web 2019
-https://s4.dlrozane.net/dlroozane/99/03/SPIDER.IN.THE.WEB.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Krays-Dead-Man-Walking.jpg" group-title="1-Recently Add FA",The Krays Dead Man Walking 2018
-https://s4.dlrozane.net/dlroozane/99/03/The.Krays.Dead.Man.Walking.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/AndOver.jpg" group-title="1-Recently Add FA", Andover 2018
-https://s4.dlrozane.net/dlroozane/99/03/Andover.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Capone-1.jpg" group-title="1-Recently Add FA",Capone 2020
-https://s4.dlrozane.net/dlroozane/99/03/Capone.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Commando-3.jpg" group-title="1-Recently Add FA",Commando 3 2019
-https://s4.dlrozane.net/dlroozane/99/03/Commando.3.2019.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Bengi.jpg" group-title="1-Recently Add FA",Benji 2018 
-https://s4.dlrozane.net/dlroozane/99/03/Benji.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-League-of-Legend-Keepers-Shadows-poster.jpg" group-title="1-Recently Add FA",The League of Legend Keepers Shadows 2019
-https://s4.dlrozane.net/dlroozane/99/03/The.League.of.Legend.Keepers.Shadows.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Nancy-Drew-and-the-Hidden-Staircase.jpg" group-title="1-Recently Add FA",Nancy Drew and the Hidden Staircase 2019
-https://s4.dlrozane.net/dlroozane/99/03/Nancy.Drew.And.The.Hidden.Staircase.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/All-the-Bright-Places.jpg" group-title="1-Recently Add FA",All the Bright Places 2020
-https://s4.dlrozane.net/dlroozane/99/03/All.The.Bright.Places.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Great-War.jpg" group-title="1-Recently Add FA",The Great War 2019
-https://s4.dlrozane.net/dlroozane/99/03/The.Great.War.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Orphan-Horse.jpg" group-title="1-Recently Add FA",Orphan Horse 2018
-https://s4.dlrozane.net/dlroozane/99/03/Orphan.Horse.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Shack.jpg" group-title="1-Recently Add FA",The Shack 2017
-https://s4.dlrozane.net/dlroozane/99/03/The.Shack.2017.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/London-Heist.jpg" group-title="1-Recently Add FA",London Heist 2017
-https://s4.dlrozane.net/dlroozane/99/03/London.Heist.2017.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Darbar.jpg" group-title="1-Recently Add FA",Darbar 2020
-https://s4.dlrozane.net/dlroozane/99/03/Darbar.2020.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Coyote-Lake.jpg" group-title="1-Recently Add FA",Coyote Lake 2019
-https://s4.dlrozane.net/dlroozane/99/03/Coyote.Lake.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Hatton-Garden-Job.jpg" group-title="1-Recently Add FA",The Hatton Garden Job 2017
-https://s4.dlrozane.net/dlroozane/99/03/The.Hatton.Garden.Job.2017.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/G%C3%BCzelligin-Portresi.jpg" group-title="1-Recently Add FA",Guzelligin Portresi 2019
-https://s4.dlrozane.net/dlroozane/99/03/Guzelligin.Portresi.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Wolf.jpg" group-title="1-Recently Add FA",Wolf 2019
-https://s4.dlrozane.net/dlroozane/99/03/Wolf.2019.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Whistleblower.jpg" group-title="1-Recently Add FA",The Whistleblower 2019
-https://s4.dlrozane.net/dlroozane/99/03/The.Whistleblower.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Radioactive.jpg" group-title="1-Recently Add FA",Radioactive 2019
-https://s4.dlrozane.net/dlroozane/99/03/Radioactive.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Enter-the-Fat-Dragon.jpg" group-title="1-Recently Add FA",Enter the Fat Dragon 2020
-https://s4.dlrozane.net/dlroozane/99/03/Enter.the.Fat.Dragon.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Night-Clerk.jpg" group-title="1-Recently Add FA",The Night Clerk 2020
-https://s4.dlrozane.net/dlroozane/99/03/The.Night.Clerk.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Shepard.jpg" group-title="1-Recently Add FA",Shepard 2020
-https://s4.dlrozane.net/dlroozane/99/03/Shepard.2020.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Ordinary-Love.jpg" group-title="1-Recently Add FA",Ordinary Love 2019
-https://s4.dlrozane.net/dlroozane/99/03/Ordinary.Love.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Tashkent-Files.jpg" group-title="1-Recently Add FA",The Tashkent Files 2019
-https://s4.dlrozane.net/dlroozane/99/03/The.Tashkent.Files.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Killbird.jpg" group-title="1-Recently Add FA",Killbird 2019
-https://s4.dlrozane.net/dlroozane/99/03/Killbird.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Thing.jpg" group-title="1-Recently Add FA",The Thing 2011
-https://s8.dlrozane.net/dlroozane/99/03/The.Thing.2011.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Jade-Dynasty.jpg" group-title="1-Recently Add FA",Jade Dynasty 2019
-https://s4.dlrozane.net/dlroozane/99/03/Jade.Dynasty.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Last-Boy.jpg" group-title="1-Recently Add FA",The Last Boy 2019
-https://s4.dlrozane.net/dlroozane/99/03/The.Last.Boy.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Peterloo.jpg" group-title="1-Recently Add FA",Peterloo 2018
-https://s4.dlrozane.net/dlroozane/99/03/Peterloo.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Arctic.jpg" group-title="1-Recently Add FA",Arctic 2019
-https://s4.dlrozane.net/dlroozane/99/03/Arctic.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/A-World-Away.jpg" group-title="1-Recently Add FA",A World Away 2019
-https://s4.dlrozane.net/dlroozane/99/03/A.World.Away.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Sputnik.jpg" group-title="1-Recently Add FA",Sputnik 2020
-https://s4.dlrozane.net/dlroozane/99/03/Sputnik.2020.720p.WEB-DL.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Windermere-Children-2020.jpg" group-title="1-Recently Add FA",The Windermere Children 2020 
-https://s4.dlrozane.net/dlroozane/99/03/The.Windermere.Children.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Bennetts-War.jpg" group-title="1-Recently Add FA",Bennett’s War 2019
-https://s4.dlrozane.net/dlroozane/99/04/Bennett%27s.War.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Debt-Collector.jpg" group-title="1-Recently Add FA", The Debt Collector 2018
-https://s4.dlrozane.net/dlroozane/99/04/The.Debt.Collector.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Last-Thing-He-Wanted.jpg" group-title="1-Recently Add FA",The Last Thing He Wanted 2020
-https://s4.dlrozane.net/dlroozane/99/04/The.Last.Thing.He.Wanted.2020.480p.farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Blackout.jpg" group-title="1-Recently Add FA",The Blackout 2019
-https://s4.dlrozane.net/dlroozane/99/04/The.Blackout.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Survive-The-Night.jpg" group-title="1-Recently Add FA",Survive The Night 2020
-https://s4.dlrozane.net/dlroozane/99/04/Survive.The.Night.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Diplomacy.jpg" group-title="1-Recently Add FA",Diplomacy 2014 
-https://s4.dlrozane.net/dlroozane/99/04/Diplomacy.2014.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Virus.jpg" group-title="1-Recently Add FA",Virus 2019
-https://s4.dlrozane.net/dlroozane/99/04/Virus.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Death-of-Stalin.jpg" group-title="1-Recently Add FA",The Death of Stalin 2017
-https://s4.dlrozane.net/dlroozane/99/04/The.Death.of.Stalin.2017.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Charlie-and-the-Chocolate-Factory.jpg" group-title="1-Recently Add FA",Charlie and the Chocolate Factory 2005
-https://s4.dlrozane.net/dlroozane/99/04/Charlie.and.the.Chocolate.Factory.2005.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Debt-Collectors.jpg" group-title="1-Recently Add FA",Debt Collectors 2020
-https://s4.dlrozane.net/dlroozane/99/04/The.Debt.Collectors.2.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Kung-Fu-Jungle.jpg" group-title="1-Recently Add FA",Kung Fu Jungle 2014
-https://s4.dlrozane.net/dlroozane/99/04/Kung.Fu.Jungle.2014.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Crossroads-One-Two-Jaga.jpg" group-title="1-Recently Add FA",Crossroads: One Two Jaga 2018
-https://s4.dlrozane.net/dlroozane/99/04/Crossroads.One.Two.Jaga.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Lost-Viking.jpg" group-title="1-Recently Add FA",The Lost Viking 2018
-https://s4.dlrozane.net/dlroozane/99/04/The.Lost.Viking.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Marjorie-Prime.jpg" group-title="1-Recently Add FA",Marjorie Prime 2017
-https://s4.dlrozane.net/dlroozane/99/04/Marjorie.Prime.2017.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Artemis-Fowl.jpg" group-title="1-Recently Add FA",Artemis Fowl 2020 
-https://s4.dlrozane.net/dlroozane/99/04/Artemis.Fowl.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Petta.jpg" group-title="1-Recently Add FA",Petta 2019
-https://s4.dlrozane.net/dlroozane/99/04/Petta.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Out-of-Liberty-1.jpg" group-title="1-Recently Add FA",Out of Liberty 2019
-https://s4.dlrozane.net/dlroozane/99/04/Out.of.Liberty.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Escape-Plan.jpg" group-title="1-Recently Add FA",Escape Plan 2013
-https://s4.dlrozane.net/dlroozane/99/04/Escape.Plan.2013.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Come-to-Daddy-1.jpg" group-title="1-Recently Add FA",Come to Daddy 2019 
-https://s4.dlrozane.net/dlroozane/99/04/Come.to.Daddy.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Kaala.jpg" group-title="1-Recently Add FA",Kaala 2018 
-https://s4.dlrozane.net/dlroozane/99/04/Kaala.2018.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Da-5-Bloods.jpg" group-title="1-Recently Add FA",Da 5 Bloods 2020
-https://s4.dlrozane.net/dlroozane/99/04/Da.5.Bloods.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Wedding-Guest.jpg" group-title="1-Recently Add FA",The Wedding Guest 2018
-https://s4.dlrozane.net/dlroozane/99/04/The.Wedding.Guest.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Thappad.jpg" group-title="1-Recently Add FA",Thappad 2020
-https://s4.dlrozane.net/dlroozane/99/04/Thappad.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Invisible-Sue.jpg" group-title="1-Recently Add FA",Invisible Sue 2018
-https://s4.dlrozane.net/dlroozane/99/04/Invisible.Sue.2018.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Rev.jpg" group-title="1-Recently Add FA",Rev 2020 
-https://s4.dlrozane.net/dlroozane/99/04/Rev.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Last-Days-of-American-Crime-Poster.jpg" group-title="1-Recently Add FA",The Last Days of American Crime 2020
-https://s4.dlrozane.net/dlroozane/99/04/The.Last.Days.Of.American.Crime.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Shirley.jpg" group-title="1-Recently Add FA",Shirley 2020
-https://s4.dlrozane.net/dlroozane/99/04/Shirley.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Inside-Man-Most-Wanted.jpg" group-title="1-Recently Add FA",Inside Man  Most Wanted 2019
-https://s4.dlrozane.net/dlroozane/99/04/Inside.Man.Most.Wanted.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Murder-Manual.jpg" group-title="1-Recently Add FA",Murder Manual 2020
-https://s4.dlrozane.net/dlroozane/99/04/Murder.Manual.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Personal-History-of-David-Copperfield.jpg" group-title="1-Recently Add FA",The Magic Kids Three Unlikely Heroes 2020
-https://s4.dlrozane.net/dlroozane/99/04/The.Personal.History.of.David.Copperfield.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/John-Wick.jpg" group-title="1-Recently Add FA",John Wick 2014
-https://s4.dlrozane.net/dlroozane/99/04/John.Wick.2014.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/You-Should-Have-Left.jpg" group-title="1-Recently Add FA",You Should Have Left 2020
-https://s4.dlrozane.net/dlroozane/99/04/You.Should.Have.Left.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Lost-Bullet.jpg" group-title="1-Recently Add FA", Lost Bullet 2020
-https://s4.dlrozane.net/dlroozane/99/04/Lost.Bullet.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Time-to-Hunt.jpg" group-title="1-Recently Add FA",Time to Hunt 2020
-https://s4.dlrozane.net/dlroozane/99/04/Time.to.Hunt.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Abducted-1.jpg" group-title="1-Recently Add FA",Abducted 2020
-https://s4.dlrozane.net/dlroozane/99/04/Abducted.2020.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/I-Am-Number-Four.jpg" group-title="1-Recently Add FA",I Am Number Four 2011
-https://s4.dlrozane.net/dlroozane/99/04/I.Am.Number.Four.2011.720p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/02/The-Two-Popes.jpg" group-title="1-Recently Add FA",The Two Popes 2019
-https://s4.dlrozane.net/dlroozane/98/11/The.Two.Popes.2019.480P.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/02/Playing-with-Fire.jpg" group-title="1-Recently Add FA",Playing with Fire 2019
-https://s4.dlrozane.net/dlroozane/98/11/Playing.with.Fire.2019.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Chronicles-of-the-Ghostly-Tribe.jpg" group-title="1-Recently Add FA", Chronicles of the Ghostly Tribe 2015
-https://s4.dlrozane.net/dlroozane/99/01/Chronicles.of.the.Ghostly.Tribe.2015.480p.Farsi.Dubbed.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Greyhound-2020-min.jpg" group-title="2-Recently Add EN",Greyhound 2020
-https://dl14.ftk.pw/user/arian/film/Greyhound.2020.1080p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Lady-Driver.jpg" group-title="2-Recently Add EN",Lady Driver 2020
-https://dl14.ftk.pw/user/arian/film/Lady.Driver.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/First-Cow.jpg" group-title="2-Recently Add EN",First Cow 2019
-https://dl14.ftk.pw/user/arian/film/First.Cow.2019.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/The-Old-Guard-2020-min.jpg" group-title="2-Recently Add EN",The Old Guard 2020
-https://dl14.ftk.pw/user/arian/film/The.Old.Guard.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Archive.jpg" group-title="2-Recently Add EN",Archive 2020
-https://dl14.ftk.pw/user/arian/film/Archive.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Hope-Gap.jpg" group-title="2-Recently Add EN",Hope Gap 2019
-https://dl14.ftk.pw/user/arian/film/Hope.Gap.2019.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Citizen-K.jpg" group-title="2-Recently Add EN",Citizen K 2019
-https://dl14.ftk.pw/user/arian/film/Citizen.K.2019.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Space-2020-min.jpg" group-title="2-Recently Add EN",Space 2020
-https://dl14.ftk.pw/user/arian/film/Space.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Shooting-Heroin-2020-min.jpg" group-title="2-Recently Add EN",Shooting Heroin 2020
-https://dl14.ftk.pw/user/arian/film/Shooting.Heroin.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Banksy-and-the-Rise-of-Outlaw-Art.jpg" group-title="2-Recently Add EN",Banksy and the Rise of Outlaw Art 2020
-https://dl14.ftk.pw/user/arian/film/Banksy.and.the.Rise.of.Outlaw.Art.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Children-of-the-Sea.jpg" group-title="2-Recently Add EN",Children of the Sea 2019
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/The-Rising-Hawk.jpg" group-title="2-Recently Add EN",The Rising Hawk 2019
-https://dl14.ftk.pw/user/arian/film/The.Rising.Hawk.2019.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Working-Man.jpg" group-title="2-Recently Add EN",Working Man 2019
-https://dl14.ftk.pw/user/arian/film/Working.Man.2019.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/The-Outpost-2020-min.jpg" group-title="2-Recently Add EN",The Outpost 2020
-https://dl14.ftk.pw/user/arian/film/The.Outpost.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Be-Water.jpg" group-title="2-Recently Add EN",Be Water 2020
-https://dl14.ftk.pw/user/arian/film/Be.Water.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/You-Should-Have-Left-2020-min.jpg" group-title="2-Recently Add EN",You Should Have Left 2020 
-https://dl14.ftk.pw/user/arian/film/You.Should.Have.Left.2020.480p.BluRay.SUBFA.Film2Movie_Asia.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Joker_2019.jpg" group-title="2-Recently Add EN",Joker 2019
-https://dl14.ftk.pw/film/Jo.ker.2019.480p.hd.rp.Film2Movie_li.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.io/content/uploads/Mortal-Kombat-Legends-2020-min.jpg" group-title="2-Recently Add EN",Mortal Kombat Legends 2020
-https://dl14.ftk.pw/user/shahab/film/Mortal.Kombat.Legends.Scorpions.Revenge.2020.480p.WEB-DL.Film2Movie_li.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.io/content/uploads/Lost-Transmissions-2019-min.jpg" group-title="2-Recently Add EN",Lost Transmissions 2019
-https://dl14.ftk.pw/user/shahab/film/Lost.Transmissions.2019.480p.BluRay.Film2Movie_li.mkv
-#EXTINF:-1 tvg-logo="https://www.film2movie.io/content/uploads/Gretel_And-Hansel-2020.jpg" group-title="2-Recently Add EN",Gretel And Hansel 2020
-https://dl14.ftk.pw/user/shahab/film/Gretel.And.Hansel.2020.480p.BluRay.Film2Movie_li.mkv
-#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/Vivarium-2019.jpg" group-title="2-Recently Add EN",Vivarium 2019
-http://dl2.film2serial.ir/film2serial/film/asli/99/1/Vivarium.2019.480p.WEB-DL.Farsi.Subbed.mkv
-#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Call-of-the-Wild-2020.jpg" group-title="2-Recently Add EN",The Call of the Wild 2020
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/True-History-of-the-Kelly-Gang.jpg" group-title="1-Recently Add FA",True History of the Kelly Gang 2020
+https://s4.dlrozane.net/dlroozane/99/05/True.History.of.the.Kelly.Gang.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Alpha-Test.jpg" group-title="1-Recently Add FA",The Alpha Test 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Alpha.Test.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/7500.jpg" group-title="1-Recently Add FA",7500 2020
+https://s4.dlrozane.net/dlroozane/99/05/7500.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Rising-Hawk.jpg" group-title="1-Recently Add FA",The Rising Hawk 2019
+https://s4.dlrozane.net/dlroozane/99/05/The.Rising.Hawk.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/70-Big-Ones.jpg" group-title="1-Recently Add FA",70 Big Ones 2018
+https://s4.dlrozane.net/dlroozane/99/05/70.big.ones.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Raid-Redemption.jpg" group-title="1-Recently Add FA",The Raid: Redemption 2011
+https://s4.dlrozane.net/dlroozane/99/05/The.Raid.Redemption.2011.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Old-Guard.jpg" group-title="1-Recently Add FA",The Old Guard 2020 
+https://s4.dlrozane.net/dlroozane/99/05/The.Old.Guard.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Suspect.jpg" group-title="1-Recently Add FA",The Suspect 2013
+https://s4.dlrozane.net/dlroozane/99/05/The.Suspect.2013.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Hitman.jpg" group-title="1-Recently Add FA",Hitman: Agent Jun 2020
+https://s4.dlrozane.net/dlroozane/99/05/Hitman.Agent.Jun.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Force-of-Nature.jpg" group-title="1-Recently Add FA",Force of Nature 2020
+https://s4.dlrozane.net/dlroozane/99/05/Force.of.Nature.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Cocuklar-Sana-Emanet.jpg" group-title="1-Recently Add FA",Cocuklar Sana Emanet 2018 
+https://s4.dlrozane.net/dlroozane/99/05/Cocuklar.Sana.Emanet.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/The-Main-Event-2020.jpg" group-title="1-Recently Add FA",The Main Event 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Main.Event.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Le-prince-oublie.jpg" group-title="1-Recently Add FA",Le prince oublié 2020
+https://s4.dlrozane.net/dlroozane/99/05/Le.prince.oublie.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Lovebirds.jpg" group-title="1-Recently Add FA",The Lovebirds 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Lovebirds.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/8-A-South-African-Horror-Story.jpg" group-title="1-Recently Add FA",8: A South African Horror Story 2019
+https://s4.dlrozane.net/dlroozane/99/05/8.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Proximity.jpg" group-title="1-Recently Add FA",Proximity 2020 
+https://s4.dlrozane.net/dlroozane/99/05/Proximity.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Wasp-Network.jpg" group-title="1-Recently Add FA",Wasp Network 2020
+https://s4.dlrozane.net/dlroozane/99/05/Wasp.Network.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Raid-2.jpg" group-title="1-Recently Add FA",The Raid 2 2014
+https://s4.dlrozane.net/dlroozane/99/05/The.Raid.2.2014.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Outpost.jpg" group-title="1-Recently Add FA",The Outpost 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Outpost.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Quarry.jpg" group-title="1-Recently Add FA",The Quarry 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Quarry.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Intuition-2.jpg" group-title="1-Recently Add FA",Intuition 2020
+https://s4.dlrozane.net/dlroozane/99/05/Intuition.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Abe.jpg" group-title="1-Recently Add FA",Abe 2020
+https://s4.dlrozane.net/dlroozane/99/05/Abe.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Chhapaak.jpg" group-title="1-Recently Add FA",Chhapaak 2020
+https://s4.dlrozane.net/dlroozane/99/05/Chhapaak.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Ash-Is-Purest-White.jpg" group-title="1-Recently Add FA",Ash Is Purest White 2018
+https://s4.dlrozane.net/dlroozane/99/05/Ash.Is.Purest.White.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Mr.-Zoo-The-Missing-VIP.jpg" group-title="1-Recently Add FA",Mr. Zoo: The Missing VIP 2020
+https://s4.dlrozane.net/dlroozane/99/05/Mr.Zoo.The.Missing.Vip.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Man-of-Tai-Chi.jpg" group-title="1-Recently Add FA",Man of Tai Chi 2013
+https://s4.dlrozane.net/dlroozane/99/05/Man.of.Tai.Chi.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Birds-of-Prey.jpg" group-title="1-Recently Add FA",Birds of Prey 2020
+https://s4.dlrozane.net/dlroozane/99/05/Birds.of.Prey.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/An-Officer-and-a-Spy-2019.jpg" group-title="1-Recently Add FA",An Officer and a Spy 2019
+https://s4.dlrozane.net/dlroozane/99/05/An.Officer.And.A.Spy.Aka.J.Accuse.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Jack-the-Giant-Slayer.jpg" group-title="1-Recently Add FA",Jack the Giant Slayer 2013
+https://s4.dlrozane.net/dlroozane/99/05/Jack.the.Giant.Slayer.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Polaroid.jpg" group-title="1-Recently Add FA",Polaroid 2019
+https://s4.dlrozane.net/dlroozane/99/05/Polaroid.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/03/Greyhound.jpg" group-title="1-Recently Add FA",Greyhound 2020
+https://s4.dlrozane.net/dlroozane/99/05/Greyhound.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Silencing.jpg" group-title="1-Recently Add FA",The Silencing 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Silencing.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Waiting-for-the-Barbarians.jpg" group-title="1-Recently Add FA",Waiting for the Barbarians 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Waiting.for.the.Barbarians.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Project-Power-2020.jpg" group-title="1-Recently Add FA",Project Power 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Project.power.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Becky.jpg" group-title="1-Recently Add FA",Becky 2020
+https://s4.dlrozane.net/dlroozane/99/06/Becky.2020.1080p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Upside-Down-Magic.jpg" group-title="1-Recently Add FA",Upside-Down Magic 2020
+https://s4.dlrozane.net/dlroozane/99/06/Upside-Down.Magic.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Zombie-for-Sale.jpg" group-title="1-Recently Add FA",Zombie for Sale 2020
+https://s4.dlrozane.net/dlroozane/99/06/Zombie.On.Sale.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Archive-1.jpg" group-title="1-Recently Add FA",Archive 2020
+https://s4.dlrozane.net/dlroozane/99/06/Archive.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Gundala.jpg" group-title="1-Recently Add FA",Gundala 2019
+https://s4.dlrozane.net/dlroozane/99/06/Gundala.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Legacy-of-Lies.jpg" group-title="1-Recently Add FA",Legacy of Lies 2020
+https://s4.dlrozane.net/dlroozane/99/05/Leg.ay.Of.Li.es.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Inheritance.jpg" group-title="1-Recently Add FA",Inheritance 2020
+https://s4.dlrozane.net/dlroozane/99/07/Inheritance.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Fractured.jpg" group-title="1-Recently Add FA",Fractured 2019
+https://s4.dlrozane.net/dlroozane/99/06/Fractured.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Tesla.jpg" group-title="1-Recently Add FA",Tesla 2020
+https://s4.dlrozane.net/dlroozane/99/06/Tesla.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Magic-Kids-Three-Unlikely-Heroes-1.jpg" group-title="1-Recently Add FA",The Magic Kids Three Unlikely Heroes 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Magic.Kids.Three.Unlikely.Heroes.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Last-Stand.jpg" group-title="1-Recently Add FA",The Last Stand 2013
+https://s4.dlrozane.net/dlroozane/99/06/The.Last.Stand.2013.720.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Secret-Garden.jpg" group-title="1-Recently Add FA",The Secret Garden 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Secret.Garden.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Allan-the-Dog.jpg" group-title="1-Recently Add FA",Allan the Dog 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Allan.The.Dog.2020.1080p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Equalizer.jpg" group-title="1-Recently Add FA",The Equalizer 2014
+https://s4.dlrozane.net/dlroozane/99/06/The.Equalizer.2014.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Cheer-Up-Mr.-Lee-2019.jpg" group-title="1-Recently Add FA",Cheer Up, Mr. Lee 2019
+https://s4.dlrozane.net/dlroozane/99/06/Cheer.Up.Mr.Lee.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Ghosts-of-War.jpg" group-title="1-Recently Add FA",Ghosts of War 2020
+https://s4.dlrozane.net/dlroozane/99/06/Ghosts.Of.War.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Host.jpg" group-title="1-Recently Add FA",Host 2020
+https://s4.dlrozane.net/dlroozane/99/06/Host.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Forbidden-Dream.jpg" group-title="1-Recently Add FA",Forbidden Dream 2019
+https://s4.dlrozane.net/dlroozane/99/06/Forbidden.Dream.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Sleepover-2020.jpg" group-title="1-Recently Add FA",The Sleepover 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Sleepover.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Android-Kunjappan-Ver-5.25.jpg" group-title="1-Recently Add FA",Android Kunjappan-Ver-5.25 2019
+https://s4.dlrozane.net/dlroozane/99/06/Android.Kunjappan.Ver.5.25.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Think-Like-a-Dog.jpg" group-title="1-Recently Add FA",Think Like a Dog 2020
+https://s4.dlrozane.net/dlroozane/99/06/Think.Like.A.Dog.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Mulan-2.jpg" group-title="1-Recently Add FA",Mulan 2020
+https://s4.dlrozane.net/dlroozane/99/07/Mulan.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Dude-in-Me.jpg" group-title="1-Recently Add FA",The Dude in Me 2019
+https://s4.dlrozane.net/dlroozane/99/06/The.Dude.In.Me.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Coma.jpg" group-title="1-Recently Add FA",Coma 2020
+https://s4.dlrozane.net/dlroozane/99/06/Coma.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Khuda-Haafiz.jpg" group-title="1-Recently Add FA",Khuda Haafiz 2020
+https://s4.dlrozane.net/dlroozane/99/07/Khuda.Haafiz.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Paydirt.jpg" group-title="1-Recently Add FA",Paydirt 2020
+https://s4.dlrozane.net/dlroozane/99/07/Paydirt.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Made-in-Italy.jpg" group-title="1-Recently Add FA",Made in Italy 2020 
+https://s4.dlrozane.net/dlroozane/99/07/Made.in.Italy.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Hard-Kill.jpg" group-title="1-Recently Add FA",Hard Kill 2020
+https://dlroozane.upera.tv/2737901-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/An-American-Pickle.jpg" group-title="1-Recently Add FA",Anjaam Pathiraa 2020
+https://s4.dlrozane.net/dlroozane/99/06/An.American.Pickle.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Anjaam-Pathiraa.jpg" group-title="1-Recently Add FA",Anjaam Pathiraa 2020
+https://s4.dlrozane.net/dlroozane/99/06/Anjaam.Pathiraa.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Train-To-Busan-2.jpg" group-title="1-Recently Add FA",Train To Busan 2 (Peninsula) 2020
+https://dlroozane.upera.tv/2737895-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Wendy.jpg" group-title="1-Recently Add FA",Wendy 2020
+https://s4.dlrozane.net/dlroozane/99/06/Wendy.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Double-World.jpg" group-title="1-Recently Add FA",Double World 2020
+https://s4.dlrozane.net/dlroozane/99/06/Double.World.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Mortal.jpg" group-title="1-Recently Add FA",Mortal 2020
+https://s4.dlrozane.net/dlroozane/99/06/Mortal.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Marlene.jpg" group-title="1-Recently Add FA",Marlene 2020
+https://s4.dlrozane.net/dlroozane/99/06/Marlene.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Four-Kids-and-It.jpg" group-title="1-Recently Add FA",Four Kids and It 2020
+https://s4.dlrozane.net/dlroozane/99/06/Four.Kids.And.It.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Rogue.jpg" group-title="1-Recently Add FA",Rogue 2020
+https://dlroozane.upera.tv/2739059-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Sea-Fever.jpg" group-title="1-Recently Add FA",Sea Fever 2020
+https://s4.dlrozane.net/dlroozane/99/07/Sea.Fever.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Raat-Akeli-Hai.jpg" group-title="1-Recently Add FA",Raat Akeli Hai 2020
+https://s4.dlrozane.net/dlroozane/99/07/Raat.Akeli.Hai.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Behind-You.jpg" group-title="1-Recently Add FA",Behind You 2020
+https://s4.dlrozane.net/dlroozane/99/07/Behind.You.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Stargirl.jpg" group-title="1-Recently Add FA",Stargirl 2020
+https://s4.dlrozane.net/dlroozane/99/07/Stargirl.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Battle-Los-Angeles.jpg" group-title="1-Recently Add FA",Battle Los Angeles 2011
+https://s4.dlrozane.net/dlroozane/99/07/Battle.Los.Angeles.2011.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Black-Water-Abyss.jpg" group-title="1-Recently Add FA",Black Water: Abyss 2020
+https://s4.dlrozane.net/dlroozane/99/07/Black.Water.Abyss.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Snowpiercer.jpg" group-title="1-Recently Add FA", Snowpiercer 2013
+https://s4.dlrozane.net/dlroozane/99/07/Snowpiercer.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Devil-All-the-Time.jpg" group-title="1-Recently Add FA",The Devil All the Time 2020
+https://dlroozane.upera.tv/2738323-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Alive.jpg" group-title="1-Recently Add FA",Alive 2020
+https://s4.dlrozane.net/dlroozane/99/07/Alive.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Sniper-Assassin%E2%80%99s-End.jpg" group-title="1-Recently Add FA",Sniper: Assassin’s End 2020
+https://dlroozane.upera.tv/2739968-12-480.mkv?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-Grandmaster.jpg" group-title="1-Recently Add FA",The Grandmaster 2013
+https://s4.dlrozane.net/dlroozane/99/07/The.Grandmaster.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-War-with-Grandpa.jpg" group-title="1-Recently Add FA",The War with Grandpa 2020
+https://dlroozane.upera.tv/2739483-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/One-Night-in-Bangkok.jpg" group-title="1-Recently Add FA",One Night in Bangkok 2020
+https://s4.dlrozane.net/dlroozane/99/07/One.Night.in.Bangkok.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Ragnarok.jpg" group-title="1-Recently Add FA",Ragnarok 2013
+https://s4.dlrozane.net/dlroozane/99/07/Ragnarok.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Legion.jpg" group-title="1-Recently Add FA",The Legion 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Legion.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-Intruder.jpg" group-title="1-Recently Add FA",Intruder 2020
+https://s4.dlrozane.net/dlroozane/99/07/Intruder.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/American-Fighter.jpg" group-title="1-Recently Add FA",American Fighter 2020
+https://s4.dlrozane.net/dlroozane/99/07/American.Fighter.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Magic-Camp.jpg" group-title="1-Recently Add FA",Magic Camp 2020
+https://dlroozane.upera.tv/2739052-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Ava.jpg" group-title="1-Recently Add FA", Ava 2020
+https://dlroozane.upera.tv/2739134-0-720.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Bill-Ted-Face-the-Music.jpg" group-title="1-Recently Add FA",Bill & Ted Face the Music 2020
+https://dlroozane.upera.tv/2740646-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/LX-2048.jpg" group-title="1-Recently Add FA",LX 2048 2020
+https://dlroozane.upera.tv/2740744-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Owners.jpg" group-title="1-Recently Add FA",The Owners 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Owners.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/War-of-the-Worlds.jpg" group-title="1-Recently Add FA",War of the Worlds 2005
+https://s4.dlrozane.net/dlroozane/99/07/War.of.the.Worlds.2005.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/First-Cow.jpg" group-title="1-Recently Add FA",First Cow 2020
+https://s4.dlrozane.net/dlroozane/99/07/First.Cow.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Joseph.jpg" group-title="1-Recently Add FA",Joseph 2018
+https://s4.dlrozane.net/dlroozane/99/07/Joseph.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Centigrade.jpg" group-title="1-Recently Add FA",Centigrade 2020
+https://s4.dlrozane.net/dlroozane/99/07/Centigrade.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Enola-Holmes.jpg" group-title="1-Recently Add FA",Enola Holmes 2020
+https://s4.dlrozane.net/dlroozane/99/07/Enola.Holmes.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-White-Storm.jpg" group-title="1-Recently Add FA",The White Storm 2013 
+https://s4.dlrozane.net/dlroozane/99/07/The.White.Storm.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/12-Hour-Shift-2020.jpg" group-title="2-Recently Add EN",12 Hour Shift 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Twelve%2012%20Hour%20Shift%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Black-Water-Abyss-2020.jpg" group-title="2-Recently Add EN",Black Water: Abyss 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Black%20Water-%20Abyss%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Antebellum-2020.jpg" group-title="2-Recently Add EN",Antebellum 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Antebellum%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Follow-Me-2020.jpg" group-title="2-Recently Add EN", No Escape 2020 
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/No.Escape.2020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Alone-2020.jpg" group-title="2-Recently Add EN",Alone 2020 
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Alone.2020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt5827790.jpg" group-title="2-Recently Add EN",Unknown Origins 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Origenes.Secretos.2020.480p-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt7939766.jpg" group-title="2-Recently Add EN",I’m Thinking of Ending Things 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Im.Thinking.Of.Ending.Things.2020.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/100-Yards-2019.jpg" group-title="2-Recently Add EN",100 Yards 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Hundred%20100%20Yards%202019-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt3155342.jpg" group-title="2-Recently Add EN",All Together Now 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/All.Together.Now.2020.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt8784956.jpg" group-title="2-Recently Add EN",Ava 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Ava2020-%20bi-480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMmFhM2U0N2YtZDA3NS00MDcxLThlZTMtNTEwMGNiZWExNmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Hard Kill2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Hard.Kill.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMGViYTc1MWQtNDUxOS00ZmZhLWFkOTctYzA4NWU2OTE3M2UwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Magic Camp 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Magic.Camp.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Peninsula 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Peninsula.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BY2IxMGYxOTItMWQ4NS00YjljLThiYzMtM2ZlYjQ1ZjdiYWQ2XkEyXkFqcGdeQXVyNDI4MjI3NDk@._V1_SY1000_CR006991000_AL_.jpg" group-title="2-Recently Add EN",Skin Walker 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Skin.Walker.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BYzg0MjQ0ODUtYTgyNC00Y2Y5LWE5NDctODY3ZTFkYmZkNGFiXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_SY1000_CR006771000_AL_.jpg" group-title="2-Recently Add EN",Tesla 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Tesla.2020-480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNTNmNmNiNDAtY2JkNC00ZWEzLWI1NTctNTM5NWQ1OGE5ZTA5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",Out Stealing Horses 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Out.Stealing.Horses.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMjMwOGEyMTQtMDllMC00YTU3LTgyNzktYmEwY2Y4MjQzYmRkXkEyXkFqcGdeQXVyMjM4OTYzMTQ@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",The Rental 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/The.Rental.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BYjIxNTk0MDEtNGE2Yy00MmRmLThmMjktZjU2ODI5OGQ3MTYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006791000_AL_.jpg" group-title="2-Recently Add EN",Made in Italy 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Made%20In%20Italy%202020%20-480p-%28www.fim2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDc3OWJkMWEtMTlmOC00OGU4LTk3MDYtZDE3OTNiZGRhMmMxXkEyXkFqcGdeQXVyNjYzMTAzNTY@._V1_SY1000_CR006991000_AL_.jpg" group-title="2-Recently Add EN",Coma 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Coma2019-480p-%28www.fim2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMzVhNWI5NzctNWU0MS00YzI4LThkY2QtMmE2NTVkYzI3YTI5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SY1000_CR006661000_AL_.jpg" group-title="2-Recently Add EN",The Secret: Dare to Dream 2020
+http://dl2.film2serial.ir/film2serial/film/doble/99/5/The.Secret.Dare.To.Dream.2020.480P.Asli-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMTMyNTIxOTQ3M15BMl5BanBnXkFtZTcwMjU2NzAzMw@@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Disturbia 2007
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Disturbia.2007.480P.Bluray.sansor%20%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZjNlYWI3MTItMWU0My00MzAxLWE2NjgtNzdlY2IwYjgwZjljXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="2-Recently Add EN",Legacy of Lies 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Legacy.Of.Lies.2020.480P.Webrip.X264%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNDgwNmU1NzItYWM5MS00YWUzLTk1ZDctODBjYTQ0NDg0NjQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Most Wanted 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Most.Wanted.2020.480P.Webrip.X264%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDRhMjQyZjQtOTQzYy00ZjVhLTlhOTUtNzQwN2RmNTNiOWYxXkEyXkFqcGdeQXVyMTg5ODY4NDM@._V1_SY1000_CR007771000_AL_.jpg" group-title="2-Recently Add EN",Invincible 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Invincible.2020.480-WEBRip-%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/tt8170358.jpg" group-title="2-Recently Add EN",Green Rush
+http://dl2.film2serial.ir/film2serial/film/doble/99/5/Green.Rush.2020.480P.Web-Dl%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNDdmYzM2ZjItYzI4NC00ODA3LTk4ZmQtZGJmMDU4NDRhOWU4XkEyXkFqcGdeQXVyMTk0MTQxMDQ@._V1_SY1000_CR007001000_AL_.jpg" group-title="2-Recently Add EN",Mortal 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Mortal.2020.480P.Web-Dl.%28Film2Serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/91eOE0c8QRL.jpg" group-title="2-Recently Add EN",Burden 2018
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Burden.2018.480P.Web-Dl.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BY2MyZjRiMzktZmIwMS00OTU3LTkxNDEtMjM2MjNkNWMxZDA5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR006751000_AL_.jpg" group-title="2-Recently Add EN",Robert the Bruce 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Robert.The.Bruce.2019.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMTc1NDMxYzYtOTJjOC00YTQ2LTg4NWEtYzJmZmU2ZmY2N2ZiXkEyXkFqcGdeQXVyNjI2ODQwNzQ@._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",Portals 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Portals-2019_480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BOGY1MGM2ZjItZDJjMC00ZGM0LTg2MDctNmExNzcyYTcwMjM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",Relic 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Relic.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNzQ5MDY2YWItOWYzMi00NGFhLWFlNDAtNmNiNjg2NWM1NjcyXkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_SY1000_CR006871000_AL_.jpg" group-title="2-Recently Add EN",Arthur & Merlin: Knights of Camelot 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Arthur.And.Merlin.Knights.Of.Camelot.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BMjAzYWVmN2QtOWM0Yi00ZTJiLWFkNzItOThmYTkxYzUzYTQyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Ghosts of War 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Ghosts.Of.War.2020.480P.Web-Dl-1.m
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BYjE2MjIwMmYtM2ZiMy00MzdmLTkyNTYtNmFiNjM5MDJhMGVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",The Silencing 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/The.Silencing.2020.480P.Web-Dl.-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR006681000_AL_.jpg" group-title="2-Recently Add EN",Greyhound 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Greyhound.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BZjU3MWUwZjQtZjc0Mi00ODM3LWIyZDEtYmFhZDRiYjg4NzE5XkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SX674_CR00674999_AL_.jpg" group-title="2-Recently Add EN",After Midnight 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/After.Midnight.2019.480p.BluRay.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BMTNmMjAxMDItMTdmYS00ZmZmLWI3YjEtMDI1OGU0MTgwMjc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",Valley Girl 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Valley.Girl.2020.1080p.WEB-DL.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BNWYyMzNjY2EtODVmYi00ODBmLWIyNGMtNDdhMGViY2RhNjcxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR006791000_AL_.jpg" group-title="2-Recently Add EN",The Outpost 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Outpost.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BYjk5MWVlMWUtZmJlYi00ZGQ0LWJkZDItOGViZjdhOTI4YWE5XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_SY1000_CR006941000_AL_.jpg" group-title="2-Recently Add EN",Gundala 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Gundala.2019.480p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BZDM0ZGVmOGYtMzMzMi00YzFkLTk5MGItODZhNTQwZDQ4Y2VjXkEyXkFqcGdeQXVyNTE2MTUwNw@@._V1_SY1000_CR007201000_AL_.jpg" group-title="2-Recently Add EN",Dragon Kingdom
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Dark.Kingdom.2018.720p.WEB-DL.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BM2FkYmZiZjItY2Q5NC00MWVkLWI3NDItMzhiOTRkNDhhZDEyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="2-Recently Add EN",Survive the Night 2020
+http://dl2.film2serial.ir/film2serial/film/doble/99/4/Survive.the.Night.2020.720p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BNTYxZGZlZjMtY2FiZS00OTZlLWExZjUtY2IxYzg5ODlhYWI2XkEyXkFqcGdeQXVyNTE5NTM3Mzc@._V1_.jpg" group-title="2-Recently Add EN",The Eastern Front 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Eastern.Front.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BYmNiYWEzZTQtY2ZlYS00YjRkLWFhZTYtMzQyNWMxMDUzZDFjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="2-Recently Add EN",Four Kids and It
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Four.Kids.And.It.2020.480p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/05/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR006751000_AL_.jpg" group-title="2-Recently Add EN",Extraction 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/2/Extraction.2020.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/04/MV5BOWE2ODZhYWYtNTFiYy00MjdmLWIzZGEtNTkyOTc1NDIwMjk4XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Fantasy Island 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/Fantasy.Island.2020.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/04/MV5BODgyZDExZTEtZDk5Mi00ZjI5LWI2MTUtNzM0ZjliNTM4MzVhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SY1000_CR006751000_AL_.jpg" group-title="2-Recently Add EN",The Main Event
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Main.Event.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/04/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",Gretel & Hansel
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/Gretel.and.Hansel.2020.REPACK.720p.WEB-DL.GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.480p.WEB-DL.Farsi.Subbed.mkv" group-title="2-Recently Add EN",The Call of the Wild 2020
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BYjJmOWE3ZTAtOTEzMC00OTEzLWJlMWUtYjA3ZDQwYTE5YmUyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR006741000_AL_.jpg" group-title="2-Recently Add EN",The Way Back 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Way.Back.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Hunt.jpg" group-title="2-Recently Add EN",The Hunt 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Hunt.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006311000_AL_.jpg" group-title="2-Recently Add EN",The Invisible Man 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Invisible.Man.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR006401000_AL_.jpg" group-title="2-Recently Add EN",Uncut Gems 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Uncut.Gems.2019.720p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Grudge-2020.jpg" group-title="2-Recently Add EN",The Grudge 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Grudge.2020.480p.Censored.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BMjIzYjU5MTEtNDIyOS00NmMxLTg3MTctOWI1OTRiODA3YzhjXkEyXkFqcGdeQXVyNjAxMTI1Mzk@._V1_.jpg" group-title="2-Recently Add EN",The Warrant 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Warrant.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="2-Recently Add EN",Color Out of Space 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Color.Out.of.Space.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/eYQQP7fDjfKqL7MXapZioPbuPkt.jpg" group-title="2-Recently Add EN",Dolphin Kick 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Dolphin.Kick.2019.720p.b.lu.ry.irmo.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/True-History-of-the-Kelly-Gang.jpg" group-title="3-Movies 2020",True History of the Kelly Gang 2020
+https://s4.dlrozane.net/dlroozane/99/05/True.History.of.the.Kelly.Gang.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Alpha-Test.jpg" group-title="3-Movies 2020",The Alpha Test 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Alpha.Test.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/7500.jpg" group-title="3-Movies 2020",7500 2020
+https://s4.dlrozane.net/dlroozane/99/05/7500.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Old-Guard.jpg" group-title="3-Movies 2020",The Old Guard 2020 
+https://s4.dlrozane.net/dlroozane/99/05/The.Old.Guard.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Hitman.jpg" group-title="3-Movies 2020",Hitman: Agent Jun 2020
+https://s4.dlrozane.net/dlroozane/99/05/Hitman.Agent.Jun.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Force-of-Nature.jpg" group-title="3-Movies 2020",Force of Nature 2020
+https://s4.dlrozane.net/dlroozane/99/05/Force.of.Nature.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Le-prince-oublie.jpg" group-title="3-Movies 2020",Le prince oublié 2020
+https://s4.dlrozane.net/dlroozane/99/05/Le.prince.oublie.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Lovebirds.jpg" group-title="3-Movies 2020",The Lovebirds 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Lovebirds.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Proximity.jpg" group-title="3-Movies 2020",Proximity 2020 
+https://s4.dlrozane.net/dlroozane/99/05/Proximity.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/The-Main-Event-2020.jpg" group-title="3-Movies 2020",The Main Event 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Main.Event.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Wasp-Network.jpg" group-title="3-Movies 2020",Wasp Network 2020
+https://s4.dlrozane.net/dlroozane/99/05/Wasp.Network.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Outpost.jpg" group-title="3-Movies 2020",The Outpost 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Outpost.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Quarry.jpg" group-title="3-Movies 2020",The Quarry 2020
+https://s4.dlrozane.net/dlroozane/99/05/The.Quarry.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Intuition-2.jpg" group-title="3-Movies 2020",Intuition 2020
+https://s4.dlrozane.net/dlroozane/99/05/Intuition.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Abe.jpg" group-title="3-Movies 2020",Abe 2020
+https://s4.dlrozane.net/dlroozane/99/05/Abe.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Chhapaak.jpg" group-title="3-Movies 2020",Chhapaak 2020
+https://s4.dlrozane.net/dlroozane/99/05/Chhapaak.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Mr.-Zoo-The-Missing-VIP.jpg" group-title="3-Movies 2020",Mr. Zoo: The Missing VIP 2020
+https://s4.dlrozane.net/dlroozane/99/05/Mr.Zoo.The.Missing.Vip.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2019/10/Birds-of-Prey.jpg" group-title="3-Movies 2020",Birds of Prey 2020
+https://s4.dlrozane.net/dlroozane/99/05/Birds.of.Prey.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/03/Greyhound.jpg" group-title="3-Movies 2020",Greyhound 2020
+https://s4.dlrozane.net/dlroozane/99/05/Greyhound.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Silencing.jpg" group-title="3-Movies 2020",The Silencing 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Silencing.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Waiting-for-the-Barbarians.jpg" group-title="3-Movies 2020",Waiting for the Barbarians 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Waiting.for.the.Barbarians.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Project-Power-2020.jpg" group-title="3-Movies 2020",Project Power 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Project.power.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Becky.jpg" group-title="3-Movies 2020",Becky 2020
+https://s4.dlrozane.net/dlroozane/99/06/Becky.2020.1080p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Upside-Down-Magic.jpg" group-title="3-Movies 2020",Upside-Down Magic 2020
+https://s4.dlrozane.net/dlroozane/99/06/Upside-Down.Magic.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Zombie-for-Sale.jpg" group-title="3-Movies 2020",Zombie for Sale 2020
+https://s4.dlrozane.net/dlroozane/99/06/Zombie.On.Sale.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Archive-1.jpg" group-title="3-Movies 2020",Archive 2020
+https://s4.dlrozane.net/dlroozane/99/06/Archive.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Legacy-of-Lies.jpg" group-title="3-Movies 2020",Legacy of Lies 2020
+https://s4.dlrozane.net/dlroozane/99/05/Leg.ay.Of.Li.es.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Inheritance.jpg" group-title="3-Movies 2020",Inheritance 2020
+https://s4.dlrozane.net/dlroozane/99/07/Inheritance.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Tesla.jpg" group-title="3-Movies 2020",Tesla 2020
+https://s4.dlrozane.net/dlroozane/99/06/Tesla.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Magic-Kids-Three-Unlikely-Heroes-1.jpg" group-title="3-Movies 2020",The Magic Kids Three Unlikely Heroes 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Magic.Kids.Three.Unlikely.Heroes.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Secret-Garden.jpg" group-title="3-Movies 2020",The Secret Garden 2020
+https://s4.dlrozane.net/dlroozane/99/06/The.Secret.Garden.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Allan-the-Dog.jpg" group-title="3-Movies 2020",Allan the Dog 2020 
+https://s4.dlrozane.net/dlroozane/99/06/Allan.The.Dog.2020.1080p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Ghosts-of-War.jpg" group-title="3-Movies 2020",Ghosts of War 2020
+https://s4.dlrozane.net/dlroozane/99/06/Ghosts.Of.War.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Host.jpg" group-title="3-Movies 2020",Host 2020
+https://s4.dlrozane.net/dlroozane/99/06/Host.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Sleepover-2020.jpg" group-title="3-Movies 2020",The Sleepover 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Sleepover.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Think-Like-a-Dog.jpg" group-title="3-Movies 2020",Think Like a Dog 2020
+https://s4.dlrozane.net/dlroozane/99/06/Think.Like.A.Dog.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Mulan-2.jpg" group-title="3-Movies 2020",Mulan 2020
+https://s4.dlrozane.net/dlroozane/99/07/Mulan.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Coma.jpg" group-title="3-Movies 2020",Coma 2020
+https://s4.dlrozane.net/dlroozane/99/06/Coma.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Khuda-Haafiz.jpg" group-title="3-Movies 2020",Khuda Haafiz 2020
+https://s4.dlrozane.net/dlroozane/99/07/Khuda.Haafiz.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Paydirt.jpg" group-title="3-Movies 2020",Paydirt 2020
+https://s4.dlrozane.net/dlroozane/99/07/Paydirt.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Made-in-Italy.jpg" group-title="3-Movies 2020",Made in Italy 2020 
+https://s4.dlrozane.net/dlroozane/99/07/Made.in.Italy.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Hard-Kill.jpg" group-title="3-Movies 2020",Hard Kill 2020
+https://dlroozane.upera.tv/2737901-0-720.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/An-American-Pickle.jpg" group-title="3-Movies 2020",Anjaam Pathiraa 2020
+https://s4.dlrozane.net/dlroozane/99/06/An.American.Pickle.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Anjaam-Pathiraa.jpg" group-title="3-Movies 2020",Anjaam Pathiraa 2020
+https://s4.dlrozane.net/dlroozane/99/06/Anjaam.Pathiraa.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Train-To-Busan-2.jpg" group-title="3-Movies 2020",Train To Busan 2 (Peninsula) 2020
+https://dlroozane.upera.tv/2737895-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Wendy.jpg" group-title="3-Movies 2020",Wendy 2020
+https://s4.dlrozane.net/dlroozane/99/06/Wendy.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Double-World.jpg" group-title="3-Movies 2020",Double World 2020
+https://s4.dlrozane.net/dlroozane/99/06/Double.World.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Mortal.jpg" group-title="3-Movies 2020",Mortal 2020
+https://s4.dlrozane.net/dlroozane/99/06/Mortal.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Marlene.jpg" group-title="3-Movies 2020",Marlene 2020
+https://s4.dlrozane.net/dlroozane/99/06/Marlene.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Four-Kids-and-It.jpg" group-title="3-Movies 2020",Four Kids and It 2020
+https://s4.dlrozane.net/dlroozane/99/06/Four.Kids.And.It.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Rogue.jpg" group-title="3-Movies 2020",Rogue 2020
+https://dlroozane.upera.tv/2739059-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Sea-Fever.jpg" group-title="3-Movies 2020",Sea Fever 2020
+https://s4.dlrozane.net/dlroozane/99/07/Sea.Fever.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Raat-Akeli-Hai.jpg" group-title="3-Movies 2020",Raat Akeli Hai 2020
+https://s4.dlrozane.net/dlroozane/99/07/Raat.Akeli.Hai.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Behind-You.jpg" group-title="3-Movies 2020",Behind You 2020
+https://s4.dlrozane.net/dlroozane/99/07/Behind.You.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Stargirl.jpg" group-title="3-Movies 2020",Stargirl 2020
+https://s4.dlrozane.net/dlroozane/99/07/Stargirl.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Black-Water-Abyss.jpg" group-title="3-Movies 2020",Black Water: Abyss 2020
+https://s4.dlrozane.net/dlroozane/99/07/Black.Water.Abyss.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Devil-All-the-Time.jpg" group-title="3-Movies 2020",The Devil All the Time 2020
+https://dlroozane.upera.tv/2738323-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Alive.jpg" group-title="3-Movies 2020",Alive 2020
+https://s4.dlrozane.net/dlroozane/99/07/Alive.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Sniper-Assassin%E2%80%99s-End.jpg" group-title="3-Movies 2020",Sniper: Assassin’s End 2020
+https://dlroozane.upera.tv/2739968-12-480.mkv?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-War-with-Grandpa.jpg" group-title="3-Movies 2020",The War with Grandpa 2020
+https://dlroozane.upera.tv/2739483-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/One-Night-in-Bangkok.jpg" group-title="3-Movies 2020",One Night in Bangkok 2020
+https://s4.dlrozane.net/dlroozane/99/07/One.Night.in.Bangkok.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/The-Legion.jpg" group-title="3-Movies 2020",The Legion 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Legion.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-Intruder.jpg" group-title="3-Movies 2020",Intruder 2020
+https://s4.dlrozane.net/dlroozane/99/07/Intruder.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/American-Fighter.jpg" group-title="3-Movies 2020",American Fighter 2020
+https://s4.dlrozane.net/dlroozane/99/07/American.Fighter.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Magic-Camp.jpg" group-title="3-Movies 2020",Magic Camp 2020
+https://dlroozane.upera.tv/2739052-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Ava.jpg" group-title="3-Movies 2020", Ava 2020
+https://dlroozane.upera.tv/2739134-0-720.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Bill-Ted-Face-the-Music.jpg" group-title="3-Movies 2020",Bill & Ted Face the Music 2020
+https://dlroozane.upera.tv/2740646-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/LX-2048.jpg" group-title="3-Movies 2020",LX 2048 2020
+https://dlroozane.upera.tv/2740744-0-480.mp4?ref=3Qr
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Owners.jpg" group-title="3-Movies 2020",The Owners 2020
+https://s4.dlrozane.net/dlroozane/99/07/The.Owners.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/First-Cow.jpg" group-title="3-Movies 2020",First Cow 2020
+https://s4.dlrozane.net/dlroozane/99/07/First.Cow.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Centigrade.jpg" group-title="3-Movies 2020",Centigrade 2020
+https://s4.dlrozane.net/dlroozane/99/07/Centigrade.2020.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Enola-Holmes.jpg" group-title="3-Movies 2020",Enola Holmes 2020
+https://s4.dlrozane.net/dlroozane/99/07/Enola.Holmes.2020.480p.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Dragonheart-Vengeance.jpg" group-title="3-Movies 2020",Dragonheart Vengeance 2020
 https://s4.dlrozane.net/dlroozane/99/02/Dragonheart.Vengeance.2020.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Heavenquest-A-Pilgrims-Progress.jpg" group-title="3-Movies 2020", Heavenquest A Pilgrim’s Progress 2020
@@ -348,12 +543,32 @@ https://s4.dlrozane.net/dlroozane/98/12/Disturbing_the_Peace_2020_720p_Farsi_Dub
 https://s4.dlrozane.net/dlroozane/98/12/Sonic.the.Hedgehog.2020.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/03/Timmy-Failure-Mistakes-Were-Made.jpg" group-title="3-Movies 2020",Timmy Failure: Mistakes Were Made 2020
 https://s4.dlrozane.net/dlroozane/98/12/Timmy.Failure.Mistakes.Were.Made.2020.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Rising-Hawk.jpg" group-title="4-Movies 2019",The Rising Hawk 2019
+https://s4.dlrozane.net/dlroozane/99/05/The.Rising.Hawk.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/8-A-South-African-Horror-Story.jpg" group-title="4-Movies 2019",8: A South African Horror Story 2019
+https://s4.dlrozane.net/dlroozane/99/05/8.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/An-Officer-and-a-Spy-2019.jpg" group-title="4-Movies 2019",An Officer and a Spy 2019
+https://s4.dlrozane.net/dlroozane/99/05/An.Officer.And.A.Spy.Aka.J.Accuse.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Polaroid.jpg" group-title="4-Movies 2019",Polaroid 2019
+https://s4.dlrozane.net/dlroozane/99/05/Polaroid.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Gundala.jpg" group-title="4-Movies 2019",Gundala 2019
+https://s4.dlrozane.net/dlroozane/99/06/Gundala.2019.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Fractured.jpg" group-title="4-Movies 2019",Fractured 2019
+https://s4.dlrozane.net/dlroozane/99/06/Fractured.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Cheer-Up-Mr.-Lee-2019.jpg" group-title="4-Movies 2019",Cheer Up, Mr. Lee 2019
+https://s4.dlrozane.net/dlroozane/99/06/Cheer.Up.Mr.Lee.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Forbidden-Dream.jpg" group-title="4-Movies 2019",Forbidden Dream 2019
+https://s4.dlrozane.net/dlroozane/99/06/Forbidden.Dream.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Android-Kunjappan-Ver-5.25.jpg" group-title="4-Movies 2019",Android Kunjappan-Ver-5.25 2019
+https://s4.dlrozane.net/dlroozane/99/06/Android.Kunjappan.Ver.5.25.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Dude-in-Me.jpg" group-title="4-Movies 2019",The Dude in Me 2019
+https://s4.dlrozane.net/dlroozane/99/06/The.Dude.In.Me.2019.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Inherit-the-Viper.jpg" group-title="4-Movies 2019",Inherit the Viper 2019
 https://s4.dlrozane.net/dlroozane/99/02/Inherit.The.Viper.2019.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/A-Dogs-Journey.jpg" group-title="4-Movies 2019",A Dog’s Journey 2019
 https://s4.dlrozane.net/dlroozane/99/02/A.Dogs.Journey.2019.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Eminence-Hill-2019.jpg" group-title="4-Movies 2019",Eminence Hill 2019 
-https://s4.dlrozane.net/dlroozane/99/02/Eminence.Hill.2019.480p.Farsi.Dubbed.mkv
+https://s4.dlrozane.net/dlroozane/99/02/Eminence.Hill.2019.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Honey-Boy.jpg" group-title="4-Movies 2019",Honey Boy 2019
 https://s4.dlrozane.net/dlroozane/99/02/Honey.Boy.2019.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Heroic-Losers.jpg" group-title="4-Movies 2019",Heroic Losers 2019
@@ -812,6 +1027,14 @@ https://s4.dlrozane.net/dlroozane/98/12/Zombieland.Double.Tap.2019.480p.Farsi.Du
 https://s4.dlrozane.net/dlroozane/98/11/The.Two.Popes.2019.480P.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/02/Playing-with-Fire.jpg" group-title="4-Movies 2019",Playing with Fire 2019
 https://s4.dlrozane.net/dlroozane/98/11/Playing.with.Fire.2019.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/70-Big-Ones.jpg" group-title="5-Movies 2018",70 Big Ones 2018
+https://s4.dlrozane.net/dlroozane/99/05/70.big.ones.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/Cocuklar-Sana-Emanet.jpg" group-title="5-Movies 2018",Cocuklar Sana Emanet 2018 
+https://s4.dlrozane.net/dlroozane/99/05/Cocuklar.Sana.Emanet.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Ash-Is-Purest-White.jpg" group-title="5-Movies 2018",Ash Is Purest White 2018
+https://s4.dlrozane.net/dlroozane/99/05/Ash.Is.Purest.White.2018.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Joseph.jpg" group-title="5-Movies 2018",Joseph 2018
+https://s4.dlrozane.net/dlroozane/99/07/Joseph.2018.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Gwen.jpg" group-title="5-Movies 2018",Gwen 2018
 https://s4.dlrozane.net/dlroozane/99/02/Gwen.2018.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/05/Broken-Swords-The-Last-in-Line.jpg" group-title="5-Movies 2018",Broken Swords The Last in Line 2018
@@ -1682,6 +1905,32 @@ http://s3.dlrozane.com/dlroozane/96/10/USS.Indianapolis.Men.of.Courage.2016.480p
 http://s3.dlrozane.com/dlroozane/96/10/I.Am.Wrath.2016.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="http://dlroozane.net/wp-content/uploads/2017/12/Ashbah.jpg" group-title="7-Movies 2016",Ghostbusters
 http://s3.dlrozane.com/dlroozane/96/10/Ghostbusters.2016.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Raid-Redemption.jpg" group-title="8-Movies 2000-2015",The Raid: Redemption 2011
+https://s4.dlrozane.net/dlroozane/99/05/The.Raid.Redemption.2011.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/07/The-Suspect.jpg" group-title="8-Movies 2000-2015",The Suspect 2013
+https://s4.dlrozane.net/dlroozane/99/05/The.Suspect.2013.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/The-Raid-2.jpg" group-title="8-Movies 2000-2015",The Raid 2 2014
+https://s4.dlrozane.net/dlroozane/99/05/The.Raid.2.2014.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Man-of-Tai-Chi.jpg" group-title="8-Movies 2000-2015",Man of Tai Chi 2013
+https://s4.dlrozane.net/dlroozane/99/05/Man.of.Tai.Chi.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/08/Jack-the-Giant-Slayer.jpg" group-title="8-Movies 2000-2015",Jack the Giant Slayer 2013
+https://s4.dlrozane.net/dlroozane/99/05/Jack.the.Giant.Slayer.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Last-Stand.jpg" group-title="8-Movies 2000-2015",The Last Stand 2013
+https://s4.dlrozane.net/dlroozane/99/06/The.Last.Stand.2013.720.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/The-Equalizer.jpg" group-title="8-Movies 2000-2015",The Equalizer 2014
+https://s4.dlrozane.net/dlroozane/99/06/The.Equalizer.2014.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Battle-Los-Angeles.jpg" group-title="8-Movies 2000-2015",Battle Los Angeles 2011
+https://s4.dlrozane.net/dlroozane/99/07/Battle.Los.Angeles.2011.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/09/Snowpiercer.jpg" group-title="8-Movies 2000-2015", Snowpiercer 2013
+https://s4.dlrozane.net/dlroozane/99/07/Snowpiercer.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-Grandmaster.jpg" group-title="8-Movies 2000-2015",The Grandmaster 2013
+https://s4.dlrozane.net/dlroozane/99/07/The.Grandmaster.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/Ragnarok.jpg" group-title="8-Movies 2000-2015",Ragnarok 2013
+https://s4.dlrozane.net/dlroozane/99/07/Ragnarok.2013.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/War-of-the-Worlds.jpg" group-title="8-Movies 2000-2015",War of the Worlds 2005
+https://s4.dlrozane.net/dlroozane/99/07/War.of.the.Worlds.2005.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/10/The-White-Storm.jpg" group-title="8-Movies 2000-2015",The White Storm 2013 
+https://s4.dlrozane.net/dlroozane/99/07/The.White.Storm.2013.720p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/The-Thing.jpg" group-title="8-Movies 2000-2015",The Thing 2011
 https://s8.dlrozane.net/dlroozane/99/03/The.Thing.2011.480p.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/06/Diplomacy.jpg" group-title="8-Movies 2000-2015",Diplomacy 2014 
@@ -1790,6 +2039,114 @@ http://s4.doostihaa.com/files/Movie/2011/P/POTC4.On.Stranger.Tides.2011.480p.Far
 http://s4.doostihaa.com/files/Movie/2017/P/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.480p.2017.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://dlroozane.net/wp-content/uploads/2020/04/Chronicles-of-the-Ghostly-Tribe.jpg" group-title="8-Movies 2000-2015", Chronicles of the Ghostly Tribe 2015
 https://s4.dlrozane.net/dlroozane/99/01/Chronicles.of.the.Ghostly.Tribe.2015.480p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/12-Hour-Shift-2020.jpg" group-title="9-Movies English",12 Hour Shift 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Twelve%2012%20Hour%20Shift%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Black-Water-Abyss-2020.jpg" group-title="9-Movies English",Black Water: Abyss 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Black%20Water-%20Abyss%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Antebellum-2020.jpg" group-title="9-Movies English",Antebellum 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Antebellum%202020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Follow-Me-2020.jpg" group-title="9-Movies English", No Escape 2020 
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/No.Escape.2020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/Alone-2020.jpg" group-title="9-Movies English",Alone 2020 
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Alone.2020-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt5827790.jpg" group-title="9-Movies English",Unknown Origins 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Origenes.Secretos.2020.480p-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt7939766.jpg" group-title="9-Movies English",I’m Thinking of Ending Things 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Im.Thinking.Of.Ending.Things.2020.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/10/100-Yards-2019.jpg" group-title="9-Movies English",100 Yards 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/7/Hundred%20100%20Yards%202019-480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt3155342.jpg" group-title="9-Movies English",All Together Now 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/All.Together.Now.2020.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/09/tt8784956.jpg" group-title="9-Movies English",Ava 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Ava2020-%20bi-480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMmFhM2U0N2YtZDA3NS00MDcxLThlZTMtNTEwMGNiZWExNmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Hard Kill2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Hard.Kill.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMGViYTc1MWQtNDUxOS00ZmZhLWFkOTctYzA4NWU2OTE3M2UwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Magic Camp 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Magic.Camp.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Peninsula 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Peninsula.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BY2IxMGYxOTItMWQ4NS00YjljLThiYzMtM2ZlYjQ1ZjdiYWQ2XkEyXkFqcGdeQXVyNDI4MjI3NDk@._V1_SY1000_CR006991000_AL_.jpg" group-title="9-Movies English",Skin Walker 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Skin.Walker.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BYzg0MjQ0ODUtYTgyNC00Y2Y5LWE5NDctODY3ZTFkYmZkNGFiXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_SY1000_CR006771000_AL_.jpg" group-title="9-Movies English",Tesla 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Tesla.2020-480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNTNmNmNiNDAtY2JkNC00ZWEzLWI1NTctNTM5NWQ1OGE5ZTA5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",Out Stealing Horses 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Out.Stealing.Horses.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMjMwOGEyMTQtMDllMC00YTU3LTgyNzktYmEwY2Y4MjQzYmRkXkEyXkFqcGdeQXVyMjM4OTYzMTQ@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",The Rental 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/The.Rental.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BYjIxNTk0MDEtNGE2Yy00MmRmLThmMjktZjU2ODI5OGQ3MTYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006791000_AL_.jpg" group-title="9-Movies English",Made in Italy 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Made%20In%20Italy%202020%20-480p-%28www.fim2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDc3OWJkMWEtMTlmOC00OGU4LTk3MDYtZDE3OTNiZGRhMmMxXkEyXkFqcGdeQXVyNjYzMTAzNTY@._V1_SY1000_CR006991000_AL_.jpg" group-title="9-Movies English",Coma 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/6/Coma2019-480p-%28www.fim2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMzVhNWI5NzctNWU0MS00YzI4LThkY2QtMmE2NTVkYzI3YTI5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SY1000_CR006661000_AL_.jpg" group-title="9-Movies English",The Secret: Dare to Dream 2020
+http://dl2.film2serial.ir/film2serial/film/doble/99/5/The.Secret.Dare.To.Dream.2020.480P.Asli-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMTMyNTIxOTQ3M15BMl5BanBnXkFtZTcwMjU2NzAzMw@@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Disturbia 2007
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Disturbia.2007.480P.Bluray.sansor%20%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZjNlYWI3MTItMWU0My00MzAxLWE2NjgtNzdlY2IwYjgwZjljXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="9-Movies English",Legacy of Lies 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Legacy.Of.Lies.2020.480P.Webrip.X264%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNDgwNmU1NzItYWM5MS00YWUzLTk1ZDctODBjYTQ0NDg0NjQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Most Wanted 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Most.Wanted.2020.480P.Webrip.X264%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BZDRhMjQyZjQtOTQzYy00ZjVhLTlhOTUtNzQwN2RmNTNiOWYxXkEyXkFqcGdeQXVyMTg5ODY4NDM@._V1_SY1000_CR007771000_AL_.jpg" group-title="9-Movies English",Invincible 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Invincible.2020.480-WEBRip-%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/tt8170358.jpg" group-title="9-Movies English",Green Rush
+http://dl2.film2serial.ir/film2serial/film/doble/99/5/Green.Rush.2020.480P.Web-Dl%28www.film2serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNDdmYzM2ZjItYzI4NC00ODA3LTk4ZmQtZGJmMDU4NDRhOWU4XkEyXkFqcGdeQXVyMTk0MTQxMDQ@._V1_SY1000_CR007001000_AL_.jpg" group-title="9-Movies English",Mortal 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Mortal.2020.480P.Web-Dl.%28Film2Serial.ir%29.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/91eOE0c8QRL.jpg" group-title="9-Movies English",Burden 2018
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Burden.2018.480P.Web-Dl.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BY2MyZjRiMzktZmIwMS00OTU3LTkxNDEtMjM2MjNkNWMxZDA5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR006751000_AL_.jpg" group-title="9-Movies English",Robert the Bruce 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Robert.The.Bruce.2019.480P-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BMTc1NDMxYzYtOTJjOC00YTQ2LTg4NWEtYzJmZmU2ZmY2N2ZiXkEyXkFqcGdeQXVyNjI2ODQwNzQ@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",Portals 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Portals-2019_480.mp4
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BOGY1MGM2ZjItZDJjMC00ZGM0LTg2MDctNmExNzcyYTcwMjM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",Relic 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Relic.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/08/MV5BNzQ5MDY2YWItOWYzMi00NGFhLWFlNDAtNmNiNjg2NWM1NjcyXkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_SY1000_CR006871000_AL_.jpg" group-title="9-Movies English",Arthur & Merlin: Knights of Camelot 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Arthur.And.Merlin.Knights.Of.Camelot.2020.480P.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BMjAzYWVmN2QtOWM0Yi00ZTJiLWFkNzItOThmYTkxYzUzYTQyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Ghosts of War 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/Ghosts.Of.War.2020.480P.Web-Dl-1.m
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BYjE2MjIwMmYtM2ZiMy00MzdmLTkyNTYtNmFiNjM5MDJhMGVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",The Silencing 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/5/The.Silencing.2020.480P.Web-Dl.-1.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR006681000_AL_.jpg" group-title="9-Movies English",Greyhound 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Greyhound.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BZjU3MWUwZjQtZjc0Mi00ODM3LWIyZDEtYmFhZDRiYjg4NzE5XkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SX674_CR00674999_AL_.jpg" group-title="9-Movies English",After Midnight 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/After.Midnight.2019.480p.BluRay.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BMTNmMjAxMDItMTdmYS00ZmZmLWI3YjEtMDI1OGU0MTgwMjc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",Valley Girl 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Valley.Girl.2020.1080p.WEB-DL.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/07/MV5BNWYyMzNjY2EtODVmYi00ODBmLWIyNGMtNDdhMGViY2RhNjcxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR006791000_AL_.jpg" group-title="9-Movies English",The Outpost 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Outpost.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BYjk5MWVlMWUtZmJlYi00ZGQ0LWJkZDItOGViZjdhOTI4YWE5XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_SY1000_CR006941000_AL_.jpg" group-title="9-Movies English",Gundala 2019
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Gundala.2019.480p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BZDM0ZGVmOGYtMzMzMi00YzFkLTk5MGItODZhNTQwZDQ4Y2VjXkEyXkFqcGdeQXVyNTE2MTUwNw@@._V1_SY1000_CR007201000_AL_.jpg" group-title="9-Movies English",Dragon Kingdom
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Dark.Kingdom.2018.720p.WEB-DL.SUBFA.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BM2FkYmZiZjItY2Q5NC00MWVkLWI3NDItMzhiOTRkNDhhZDEyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="9-Movies English",Survive the Night 2020
+http://dl2.film2serial.ir/film2serial/film/doble/99/4/Survive.the.Night.2020.720p.WEB-DL.DUBLE.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BNTYxZGZlZjMtY2FiZS00OTZlLWExZjUtY2IxYzg5ODlhYWI2XkEyXkFqcGdeQXVyNTE5NTM3Mzc@._V1_.jpg" group-title="9-Movies English",The Eastern Front 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/The.Eastern.Front.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/06/MV5BYmNiYWEzZTQtY2ZlYS00YjRkLWFhZTYtMzQyNWMxMDUzZDFjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="9-Movies English",Four Kids and It
+http://dl2.film2serial.ir/film2serial/film/asli/99/4/Four.Kids.And.It.2020.480p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/05/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR006751000_AL_.jpg" group-title="9-Movies English",Extraction 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/2/Extraction.2020.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/04/MV5BOWE2ODZhYWYtNTFiYy00MjdmLWIzZGEtNTkyOTc1NDIwMjk4XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Fantasy Island 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/Fantasy.Island.2020.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/04/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",Gretel & Hansel
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/Gretel.and.Hansel.2020.REPACK.720p.WEB-DL.GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.480p.WEB-DL.Farsi.Subbed.mkv" group-title="9-Movies English",The Call of the Wild 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.480p.WEB-DL.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BYjJmOWE3ZTAtOTEzMC00OTEzLWJlMWUtYjA3ZDQwYTE5YmUyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English",The Way Back 2020
+http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Way.Back.2020.720p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Hunt.jpg" group-title="9-Movies English",The Hunt 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Hunt.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006311000_AL_.jpg" group-title="9-Movies English",The Invisible Man 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Invisible.Man.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR006401000_AL_.jpg" group-title="9-Movies English",Uncut Gems 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Uncut.Gems.2019.720p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Grudge-2020.jpg" group-title="9-Movies English",The Grudge 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Grudge.2020.480p.Censored.Farsi.Subbed.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BMjIzYjU5MTEtNDIyOS00NmMxLTg3MTctOWI1OTRiODA3YzhjXkEyXkFqcGdeQXVyNjAxMTI1Mzk@._V1_.jpg" group-title="9-Movies English",The Warrant 2020
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/The.Warrant.2020.480p.WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",Color Out of Space 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Color.Out.of.Space.2019.480p.mkv
+#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/eYQQP7fDjfKqL7MXapZioPbuPkt.jpg" group-title="9-Movies English",Dolphin Kick 2019
+http://dl2.film2serial.ir/film2serial/film/asli/98/12/Dolphin.Kick.2019.720p.b.lu.ry.irmo.mkv
 #EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Greyhound-2020-min.jpg" group-title="9-Movies English",Greyhound 2020
 https://dl14.ftk.pw/user/arian/film/Greyhound.2020.1080p.BluRay.SUBFA.Film2Movie_Asia.mkv
 #EXTINF:-1 tvg-logo="https://www.film2movie.asia/content/uploads/Lady-Driver.jpg" group-title="9-Movies English",Lady Driver 2020
@@ -2098,8 +2455,6 @@ http://dl2.film2serial.ir/film2serial/film/asli/99/1/Underwater.2020.480p.Farsi.
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/Vivarium.2019.480p.WEB-DL.Farsi.Subbed.mkv
 #EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/The-Call-of-the-Wild-2020.jpg" group-title="9-Movies English",The Call of the Wild 2020
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.480p.WEB-DL.Farsi.Subbed.mkv
-#EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BYjJmOWE3ZTAtOTEzMC00OTEzLWJlMWUtYjA3ZDQwYTE5YmUyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR006741000_AL_.jpg" group-title="9-Movies English", 2020
-http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Way.Back.2020.720p.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",The Gentlemen 2019
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Gentlemen.2019.480p.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://www.film2serial.ir/wp-content/uploads/2020/03/MV5BZGY5N2U3YzktNDU5NC00Mzc5LWI4YmEtZTI0MWRiYjdlZjg3XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg" group-title="9-Movies English",The Song of Names 2019
